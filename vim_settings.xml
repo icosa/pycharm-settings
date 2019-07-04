@@ -3,10 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/definiens/import-script/README.md" timestamp="1562229084363">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="128" />
+      </file>
+      <file name="/Python Console" timestamp="1562229015199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1562168024735" />
+      <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="448" column="48" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPWYnc2NyaXB0IHRvIGltcG9ydCBEUkMvYW5ub3RhdGlvbi9sYW5kbWFyaywgdntfX3ZlcnNpb25fX30nLCBwcm9nPSdpbXBvcnRzY3JpcHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJzaW9uJywgYWN0aW9uPSd2ZXJzaW9uJywgdmVyc2lvbj1fX3ZlcnNpb25fXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW52aXJvbm1lbnQnLCBkZWZhdWx0PSdwcm9kJywgY2hvaWNlcz1FTkRQT0lOVFNfQllfRU5WLmtleXMoKSwgaGVscD0nZGVwbG95bWVudCBlbnZpcm9ubWVudCB0byB1c2UnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS11c2VyJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPWYnc2NyaXB0IHRvIGltcG9ydCBEUkMvYW5ub3RhdGlvbi9sYW5kbWFyaywgdntfX3ZlcnNpb25fX30nLCBwcm9nPSdpbXBvcnRzY3JpcHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJzaW9uJywgYWN0aW9uPSd2ZXJzaW9uJywgdmVyc2lvbj1fX3ZlcnNpb25fXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW52aXJvbm1lbnQnLCBkZWZhdWx0PSdwcm9kJywgY2hvaWNlcz1FTkRQT0lOVFNfQllfRU5WLmtleXMoKSwgaGVscD0nZGVwbG95bWVudCBlbnZpcm9ubWVudCB0byB1c2UnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS11c2VyJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>git@git.definiens.local:insights-platform/import-script.git</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -17,6 +40,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
