@@ -7,6 +7,13 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/cli.py" timestamp="1562592669049" />
+      <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
+        <mark key="[" line="952" column="25" />
+        <mark key="]" line="952" column="25" />
+        <mark key="^" line="952" column="25" />
+        <mark key="." line="952" column="25" />
+      </file>
       <file name="/Python Console" timestamp="1562229015199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -15,16 +22,27 @@
       <file name="/a.dummy" timestamp="1562581584641">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562592376370">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562591579480">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/system_test/test_overall_system.py" timestamp="1562585547611">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562586554399">
+      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562591278905">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
@@ -35,16 +53,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPWYnc2NyaXB0IHRvIGltcG9ydCBEUkMvYW5ub3RhdGlvbi9sYW5kbWFyaywgdntfX3ZlcnNpb25fX30nLCBwcm9nPSdpbXBvcnRzY3JpcHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJzaW9uJywgYWN0aW9uPSd2ZXJzaW9uJywgdmVyc2lvbj1fX3ZlcnNpb25fXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW52aXJvbm1lbnQnLCBkZWZhdWx0PSdwcm9kJywgY2hvaWNlcz1FTkRQT0lOVFNfQllfRU5WLmtleXMoKSwgaGVscD0nZGVwbG95bWVudCBlbnZpcm9ubWVudCB0byB1c2UnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS11c2VyJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">ZGVmIHRlc3RfYW5zd2VyKCk6CiAgICBhc3NlcnQgNSA9PSA1Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>func(3)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLndlYnRlc3QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aXMKdGVzdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CnRoaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>func(3)</text>
+        <text>FileNotFoundError</text>
       </register>
     </registers>
     <search>
