@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1562581584641">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/system_test/test_overall_system.py" timestamp="1562585266927">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
@@ -25,11 +31,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPWYnc2NyaXB0IHRvIGltcG9ydCBEUkMvYW5ub3RhdGlvbi9sYW5kbWFyaywgdntfX3ZlcnNpb25fX30nLCBwcm9nPSdpbXBvcnRzY3JpcHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJzaW9uJywgYWN0aW9uPSd2ZXJzaW9uJywgdmVyc2lvbj1fX3ZlcnNpb25fXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW52aXJvbm1lbnQnLCBkZWZhdWx0PSdwcm9kJywgY2hvaWNlcz1FTkRQT0lOVFNfQllfRU5WLmtleXMoKSwgaGVscD0nZGVwbG95bWVudCBlbnZpcm9ubWVudCB0byB1c2UnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS11c2VyJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPWYnc2NyaXB0IHRvIGltcG9ydCBEUkMvYW5ub3RhdGlvbi9sYW5kbWFyaywgdntfX3ZlcnNpb25fX30nLCBwcm9nPSdpbXBvcnRzY3JpcHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJzaW9uJywgYWN0aW9uPSd2ZXJzaW9uJywgdmVyc2lvbj1fX3ZlcnNpb25fXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW52aXJvbm1lbnQnLCBkZWZhdWx0PSdwcm9kJywgY2hvaWNlcz1FTkRQT0lOVFNfQllfRU5WLmtleXMoKSwgaGVscD0nZGVwbG95bWVudCBlbnZpcm9ubWVudCB0byB1c2UnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS11c2VyJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>func(3)</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>git@git.definiens.local:insights-platform/import-script.git</text>
+        <text>func(3)</text>
       </register>
     </registers>
     <search>
@@ -38,7 +47,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
