@@ -7,7 +7,9 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/cli.py" timestamp="1562592669049" />
+      <file name="/Dummy.txt" timestamp="1562616841828">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
         <mark key="[" line="952" column="25" />
         <mark key="]" line="952" column="25" />
@@ -22,25 +24,13 @@
       <file name="/a.dummy" timestamp="1562581584641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562592376370">
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
+      <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562616524925">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562591579480">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/system_test/test_overall_system.py" timestamp="1562585547611">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562591278905">
+      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562616979472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -49,44 +39,71 @@
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/cli.py" timestamp="1562592669049" />
+      <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562592376370">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+      </file>
+      <file name="C:/Python36/Lib/getpass.py" timestamp="1562616155294">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562616909278">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="24" column="19" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/system_test/test_overall_system.py" timestamp="1562585547611">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="12" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfYW5zd2VyKCk6CiAgICBhc3NlcnQgNSA9PSA1Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
+      <register name="-" type="4">
+        <text>es</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGQydAoK</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">QHB5dGVzdC5tYXJrLndlYnRlc3QK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnamtpbmcnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyOgogICAgICAgICAgICByZXR1cm4gdXNlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcgKyB1c2VyKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aXMKdGVzdAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnRoaXMK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>FileNotFoundError</text>
       </register>
     </registers>
     <search>
