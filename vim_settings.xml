@@ -12,8 +12,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562252823485" />
-      <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1562168024735" />
+      <file name="/a.dummy" timestamp="1562581584641">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
