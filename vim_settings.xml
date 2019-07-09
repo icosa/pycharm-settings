@@ -30,11 +30,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562659988448">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
         <mark key="[" line="445" column="0" />
@@ -71,37 +71,37 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">eHh4eHggPDw8PDw8PDw8PDw8PDw8PA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGQydAoK</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4geHh4eHggPDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLndlYnRlc3QK</text>
+        <text encoding="base64">ICAgIHByaW50KGYnPj4+PiBvdXRwdXQgZm9sZGVyIGlzIHtteV90bXBkaXJ9JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGQydAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnamtpbmcnCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLndlYnRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyOgogICAgICAgICAgICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcgKyB1c2VyKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnamtpbmcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyOgogICAgICAgICAgICByZXR1cm4gdXNlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcgKyB1c2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53ZWJ0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -122,6 +122,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
