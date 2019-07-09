@@ -30,11 +30,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562658317713">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562659112432">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
         <mark key="[" line="445" column="0" />
@@ -52,9 +52,9 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562616909278">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562659104859">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
@@ -74,7 +74,7 @@
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+PiBnZXR0aW5nIHVzZXIgPDw8PCcpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHB5dGQydAoK</text>
