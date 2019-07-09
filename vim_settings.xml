@@ -31,11 +31,17 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562674055068">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="33" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562684201808">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/test/folder_comp.py" timestamp="1562683788221">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
@@ -81,6 +87,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="C:/Python36/Lib/filecmp.py" timestamp="1562684128097" />
     </filemarks>
     <jumps>
       <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
@@ -96,8 +103,8 @@
       <register name="/" type="4">
         <text>args</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzID0gWyJhbm5vdGF0aW9ucyJdICsgcGFyYW1ldGVycwo=</text>
+      <register name="0" type="4">
+        <text>comp_result.report_full_closure()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBfcmVzdWx0LnJlcG9ydCgpCg==</text>
