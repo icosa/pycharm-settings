@@ -21,6 +21,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562671510425" />
       <file name="/a.dummy" timestamp="1562663453892">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,11 +31,10 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562670106399">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="31" column="51" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562672315014">
+        <mark key="[" line="30" column="87" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
@@ -62,10 +62,10 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562659104859">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="43" />
         <mark key="^" line="24" column="19" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/annotation_config_template.yml" timestamp="1562665302574">
@@ -81,58 +81,69 @@
         <mark key="." line="1" column="12" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
+      <jump line="30" column="17" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>]</text>
+      </register>
+      <register name="/" type="4">
+        <text>args</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnPj4+Pj4+Pj4+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzID0gWyJhbm5vdGF0aW9ucyJdICsgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnPj4+IHh4eHgge21vZHVsZV9wYXRofScpCg==</text>
+        <text encoding="base64">IyBjcmVhdGUgZml4dHVyZSB0byBzdXBwbHkgYW5ub3RhdGlvbnMgY29uZmlnCiMgd2lsbCBkZXBlbmQgb24gYSB0ZW1wIGZvbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">IyBkbyBhIHRlc3QgcnVuIGFuZCBnZXQgcmVzdWx0cyA8LSBmaXh0dXJlICsgY2xlYW4gdXAKIyBjb21wYXJlIGFnYWluc3QgcmVmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmxpc3RkaXIodGVtcF9yZXN1bHRzX2ZvbGRlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBhIGNvbmZpZyBmaWxlIHVzaW5nIHRoZSB0ZW1wbGF0ZSBhbmQgZHluYW1pYyBwYXJhbWV0ZXJzCiAgICAgICAgY29uZmlnX2ZpbGVfY29udGVudHMgPSBUZW1wbGF0ZShjb25maWdfdGVtcGxhdGVfZmlsZS5yZWFkKCkpLnN1YnN0aXR1dGUoeydvdXRGb2xkZXInOiB0ZW1wX3Jlc3VsdHNfZm9sZGVyfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25maWdfZmlsZV9wYXRoID0gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19mb2xkZXIsICdhbm5vdGF0aW9uX2NvbmZpZy55bWwnKQogICAgIwogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+JyArIGFubm90YXRpb25zX2NvbmZpZ19maWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQob3MubGlzdGRpcihzdHIodGVtcF9mb2xkZXIpKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+JyArIHN0cih0ZW1wX2ZvbGRlci5saXN0ZGlyKCkpKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnPj4+PiBvdXRwdXQgZm9sZGVyIGlzIHtyZXN1bHRzX2ZvbGRlcn0nKQo=</text>
+        <text encoding="base64">cHJpbnQoY29uZmlnX2ZpbGVfY29udGVudHMpIHByaW50KCc8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>args</last-search>
+      <last-offset />
+      <last-pattern>args</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>args</entry>
+      </history-search>
       <history-cmd>
         <entry>sw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
