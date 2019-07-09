@@ -30,11 +30,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562666789843">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562670106399">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
@@ -87,37 +87,37 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>results_folder</text>
+        <text />
       </register>
-      <register name="0" type="4">
-        <text>os</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnPj4+Pj4+Pj4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmxpc3RkaXIodGVtcF9yZXN1bHRzX2ZvbGRlcikpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnPj4+IHh4eHgge21vZHVsZV9wYXRofScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25maWdfZmlsZV9wYXRoID0gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19mb2xkZXIsICdhbm5vdGF0aW9uX2NvbmZpZy55bWwnKQogICAgIwogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9zLmxpc3RkaXIodGVtcF9yZXN1bHRzX2ZvbGRlcikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+        <text encoding="base64">CiAgICBjb25maWdfZmlsZV9wYXRoID0gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19mb2xkZXIsICdhbm5vdGF0aW9uX2NvbmZpZy55bWwnKQogICAgIwogICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnPj4+PiBvdXRwdXQgZm9sZGVyIGlzIHtyZXN1bHRzX2ZvbGRlcn0nKQo=</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnPj4+Pj4+Pj4+Pj4+IGRlbGV0aW5nIHt0ZW1wX2ZvbGRlcn0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4geHh4eHggPDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnPj4+PiBvdXRwdXQgZm9sZGVyIGlzIHtyZXN1bHRzX2ZvbGRlcn0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -130,7 +130,9 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>sw</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
