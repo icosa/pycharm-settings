@@ -22,8 +22,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562671510425" />
-      <file name="/a.dummy" timestamp="1562663453892">
+      <file name="/a.dummy" timestamp="1562697691412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/qcmonkey/annotations/processor.py" timestamp="1562698773509">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="69" column="6" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -31,17 +35,18 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562684201808">
-        <mark key="[" line="43" column="47" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="44" column="16" />
-        <mark key="^" line="44" column="16" />
+      <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562700340611">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="48" column="70" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/folder_comp.py" timestamp="1562683788221">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="C:/dev/definiens/QCmonkey/test/folder_comp.py" timestamp="1562700266925">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="36" column="46" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
@@ -92,65 +97,75 @@
     <jumps>
       <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
       <jump line="30" column="17" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
+      <jump line="17" column="0" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
+      <jump line="27" column="8" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>new unexpected files/folders were created!</text>
       </register>
       <register name="/" type="4">
-        <text>args</text>
+        <text>target</text>
       </register>
-      <register name="0" type="4">
-        <text>comp_result.report_full_closure()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgY29tcF9yZXN1bHQubmV3X2l0ZW1zLCAnbmV3IHVuZXhwZWN0ZWQgZmlsZXMvZm9sZGVycyB3ZXJlIGNyZWF0ZWQhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBfcmVzdWx0LnJlcG9ydCgpCg==</text>
+        <text encoding="base64">CiMgZGlyIGNvbXBhcmlzaW9uCiAgICAjIG5ldyBmaWxlcwogICAgIyBtaXNzaW5nIGZpbGVzCiAgICAjIGNvbnRlbnRzCiAgICAjIGV4Y2VwdGlvbnMKCiAgICBhc3NlcnQgNSA9PSA1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjcmVhdGUgZml4dHVyZSB0byBzdXBwbHkgYW5ub3RhdGlvbnMgY29uZmlnCiMgd2lsbCBkZXBlbmQgb24gYSB0ZW1wIGZvbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCc+Pj4gdGhpcyBpcyB0aGUgY29tcCByZXN1bHQnLCBjb21wX2ZpbGVfcmVzdWx0LCBmaWxlX25hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkbyBhIHRlc3QgcnVuIGFuZCBnZXQgcmVzdWx0cyA8LSBmaXh0dXJlICsgY2xlYW4gdXAKIyBjb21wYXJlIGFnYWluc3QgcmVmCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1pc3NpbmcgZm9sZGVycwogICAgICAgICMgbmV3IGZvbGRlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBhIGNvbmZpZyBmaWxlIHVzaW5nIHRoZSB0ZW1wbGF0ZSBhbmQgZHluYW1pYyBwYXJhbWV0ZXJzCiAgICAgICAgY29uZmlnX2ZpbGVfY29udGVudHMgPSBUZW1wbGF0ZShjb25maWdfdGVtcGxhdGVfZmlsZS5yZWFkKCkpLnN1YnN0aXR1dGUoeydvdXRGb2xkZXInOiB0ZW1wX3Jlc3VsdHNfZm9sZGVyfSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnPj4+Pj4gYmFzZSAnICsgYmFzZV9kaXIpCiAgICAgICAgcHJpbnQoJz4+Pj4+IHN1Yl9kaXIgJyArIHN1Yl9kaXIpCiAgICAgICAgcHJpbnQoJz4+Pj4+IGl0ZW1zJyArIHN0cihpdGVtcykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBBbm5vdGF0aW9ucyBhcmUgcmVhZCBmcm9tIHRoZSA6Y2xhc3M6YERhdGFTb3VyY2VgIHRvIGEKICAgIDpjbGFzczpgR2VvRGF0YUZyYW1lYC4gQWxsIGNoZWNrcyBhbmQgZnVydGhlciBwcm9jZXNzaW5nIGFyZSBkb25lIG9uIHRoYXQKICAgIGRhdGEgZnJhbWUuCgogICAgSGFybW9uaXphdGlvbiBvZiBhbm5vdGF0aW9uIGNsYXNzIG5hbWVzIGhhcyB0byBiZSBkb25lIGJ5IHRoZQogICAgY2xhc3M6YERhdGFTb3VyY2VgIGluc3RhbmNlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+JyArIGFubm90YXRpb25zX2NvbmZpZ19maWxlKQo=</text>
+        <text encoding="base64">IyBjbGFzcyBEaXJDb21wRXgoZmlsZWNtcC5kaXJjbXApOgogICAgIiIiCiAgICBDb21wYXJlIHRoZSBjb250ZW50IG9mIGRpcjEgYW5kIGRpcjIuIEluIGNvbnRyYXN0IHdpdGggZmlsZWNtcC5kaXJjbXAsIHRoaXMKICAgIHN1YmNsYXNzIGNvbXBhcmVzIHRoZSBjb250ZW50IG9mIGZpbGVzIHdpdGggdGhlIHNhbWUgcGF0aC4KICAgICIiIgogICAgIyBkZWYgcGhhc2UzKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEZpbmQgb3V0IGRpZmZlcmVuY2VzIGJldHdlZW4gY29tbW9uIGZpbGVzLgogICAgICAgIEVuc3VyZSB3ZSBhcmUgdXNpbmcgY29udGVudCBjb21wYXJpc29uIHdpdGggc2hhbGxvdz1GYWxzZS4KICAgICAgICAiIiIKICAgICAgICAjIGZjb21wID0gZmlsZWNtcC5jbXBmaWxlcyhzZWxmLmxlZnQsIHNlbGYucmlnaHQsIHNlbGYuY29tbW9uX2ZpbGVzLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYWxsb3c9RmFsc2UpCiAgICAgICAgIyBzZWxmLnNhbWVfZmlsZXMsIHNlbGYuZGlmZl9maWxlcywgc2VsZi5mdW5ueV9maWxlcyA9IGZjb21wCgoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQob3MubGlzdGRpcihzdHIodGVtcF9mb2xkZXIpKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIG1pc3NpbmcgZmlsZXMKICAgICAgICAjIG5ldyBmaWxlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+JyArIHN0cih0ZW1wX2ZvbGRlci5saXN0ZGlyKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzO2RkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>args</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>args</last-pattern>
+      <last-pattern>target</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>args</entry>
+        <entry>folder</entry>
+        <entry>source</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
         <entry>W</entry>
+        <entry>%s/folder/dir/</entry>
+        <entry>%s/source/left/g</entry>
+        <entry>%s/target/right/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
