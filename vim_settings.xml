@@ -69,10 +69,10 @@
         <mark key="]" line="28" column="43" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/annotation_config_template.yml" timestamp="1562677647935">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="C:/dev/definiens/QCmonkey/test/annotation_config_template.yml" timestamp="1562682894324">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
         <mark key="^" line="21" column="16" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/system_test/test_overall_system.py" timestamp="1562585547611">
@@ -91,7 +91,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
