@@ -21,7 +21,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562671510425" />
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562740290137">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1562697691412">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,7 +116,7 @@
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBub3QgY29tcF9yZXN1bHQubmV3X2l0ZW1zLCAnbmV3IHVuZXhwZWN0ZWQgZmlsZXMvZm9sZGVycyB3ZXJlIGNyZWF0ZWQhJwo=</text>
+        <text encoding="base64">IyAgcGF0aHM6IFsiSU9QX0Fubm90YXRpb25fSGFuZGxpbmdfVGVzdC9OU0NMQyJdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiMgZGlyIGNvbXBhcmlzaW9uCiAgICAjIG5ldyBmaWxlcwogICAgIyBtaXNzaW5nIGZpbGVzCiAgICAjIGNvbnRlbnRzCiAgICAjIGV4Y2VwdGlvbnMKCiAgICBhc3NlcnQgNSA9PSA1Cg==</text>
