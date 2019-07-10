@@ -3,37 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/import-script/README.md" timestamp="1562229084363">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="128" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562658280280">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
         <mark key="[" line="952" column="25" />
         <mark key="]" line="952" column="25" />
         <mark key="^" line="952" column="25" />
         <mark key="." line="952" column="25" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562741497508">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="14" column="45" />
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/annotation_config_template.yml" timestamp="1562745380252">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1562229015199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562745373683">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="47" />
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1562697691412">
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562746879388">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="14" />
+        <mark key="^" line="64" column="3" />
+        <mark key="." line="63" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1562745083657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/qcmonkey/annotations/processor.py" timestamp="1562698773509">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="69" column="6" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562700340611">
         <mark key="[" line="53" column="0" />
@@ -54,32 +58,19 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="448" column="48" />
-      </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/cli.py" timestamp="1562592669049" />
       <file name="C:/dev/definiens/QCmonkey/setup.py" timestamp="1562664716892">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="30" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562592376370">
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
       </file>
       <file name="C:/Python36/Lib/getpass.py" timestamp="1562616155294">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562741614455" />
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
-        <mark key="'" line="30" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="24" column="19" />
+      <file name="/test_qc_results.py" timestamp="1562746387219">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="34" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/annotation_config_template.yml" timestamp="1562682894324">
         <mark key="[" line="6" column="0" />
@@ -93,6 +84,39 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="C:/dev/definiens/import-script/README.md" timestamp="1562229084363">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="128" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562658280280">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1562229067921">
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="448" column="48" />
+      </file>
+      <file name="/" timestamp="1562746141911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562747075750">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="37" column="28" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562741614455" />
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="24" column="19" />
+      </file>
       <file name="C:/Python36/Lib/filecmp.py" timestamp="1562695692168" />
     </filemarks>
     <jumps>
@@ -100,58 +124,59 @@
       <jump line="30" column="17" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
       <jump line="17" column="0" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
       <jump line="27" column="8" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
+      <jump line="67" column="11" filename="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>NSCLC</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text encoding="base64">XDxub3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgcGF0aHM6IFsiSU9QX0Fubm90YXRpb25fSGFuZGxpbmdfVGVzdC9OU0NMQyJdCg==</text>
+        <text encoding="base64">ZnJvbSBxY21vbmtleS5fX21haW5fXyBpbXBvcnQgbWFpbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgZGlyIGNvbXBhcmlzaW9uCiAgICAjIG5ldyBmaWxlcwogICAgIyBtaXNzaW5nIGZpbGVzCiAgICAjIGNvbnRlbnRzCiAgICAjIGV4Y2VwdGlvbnMKCiAgICBhc3NlcnQgNSA9PSA1Cg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCc+Pj4gdGhpcyBpcyB0aGUgY29tcCByZXN1bHQnLCBjb21wX2ZpbGVfcmVzdWx0LCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1pc3NpbmcgZm9sZGVycwogICAgICAgICMgbmV3IGZvbGRlcnMK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnPj4+Pj4gYmFzZSAnICsgYmFzZV9kaXIpCiAgICAgICAgcHJpbnQoJz4+Pj4+IHN1Yl9kaXIgJyArIHN1Yl9kaXIpCiAgICAgICAgcHJpbnQoJz4+Pj4+IGl0ZW1zJyArIHN0cihpdGVtcykpCg==</text>
+        <text encoding="base64">ZGVmIGFjdHVhbF9yZXN1bHRzX2Rpcih0ZW1wX3Jlc3VsdHNfZGlyKSAtPiBzdHI6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19kaXIsICdhY3R1YWxfcmVzdWx0cycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBBbm5vdGF0aW9ucyBhcmUgcmVhZCBmcm9tIHRoZSA6Y2xhc3M6YERhdGFTb3VyY2VgIHRvIGEKICAgIDpjbGFzczpgR2VvRGF0YUZyYW1lYC4gQWxsIGNoZWNrcyBhbmQgZnVydGhlciBwcm9jZXNzaW5nIGFyZSBkb25lIG9uIHRoYXQKICAgIGRhdGEgZnJhbWUuCgogICAgSGFybW9uaXphdGlvbiBvZiBhbm5vdGF0aW9uIGNsYXNzIG5hbWVzIGhhcyB0byBiZSBkb25lIGJ5IHRoZQogICAgY2xhc3M6YERhdGFTb3VyY2VgIGluc3RhbmNlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjbGFzcyBEaXJDb21wRXgoZmlsZWNtcC5kaXJjbXApOgogICAgIiIiCiAgICBDb21wYXJlIHRoZSBjb250ZW50IG9mIGRpcjEgYW5kIGRpcjIuIEluIGNvbnRyYXN0IHdpdGggZmlsZWNtcC5kaXJjbXAsIHRoaXMKICAgIHN1YmNsYXNzIGNvbXBhcmVzIHRoZSBjb250ZW50IG9mIGZpbGVzIHdpdGggdGhlIHNhbWUgcGF0aC4KICAgICIiIgogICAgIyBkZWYgcGhhc2UzKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEZpbmQgb3V0IGRpZmZlcmVuY2VzIGJldHdlZW4gY29tbW9uIGZpbGVzLgogICAgICAgIEVuc3VyZSB3ZSBhcmUgdXNpbmcgY29udGVudCBjb21wYXJpc29uIHdpdGggc2hhbGxvdz1GYWxzZS4KICAgICAgICAiIiIKICAgICAgICAjIGZjb21wID0gZmlsZWNtcC5jbXBmaWxlcyhzZWxmLmxlZnQsIHNlbGYucmlnaHQsIHNlbGYuY29tbW9uX2ZpbGVzLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYWxsb3c9RmFsc2UpCiAgICAgICAgIyBzZWxmLnNhbWVfZmlsZXMsIHNlbGYuZGlmZl9maWxlcywgc2VsZi5mdW5ueV9maWxlcyA9IGZjb21wCgoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKG91dF9kaXIsICdJT1BfRXhwbG9yYXRvcnlfVGVzdCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1pc3NpbmcgZmlsZXMKICAgICAgICAjIG5ldyBmaWxlcwo=</text>
+        <text encoding="base64">ICBwYXRoczogWyJJT1BfQW5ub3RhdGlvbl9IYW5kbGluZ19UZXN0L05TQ0xDIl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search encoding="base64">XDxub3RcPg==</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern encoding="base64">XDxub3RcPg==</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>target</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -160,6 +185,7 @@
         <entry>folder</entry>
         <entry>source</entry>
         <entry>target</entry>
+        <entry encoding="base64">XDxub3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
@@ -178,6 +204,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
