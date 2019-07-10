@@ -9,28 +9,22 @@
         <mark key="^" line="952" column="25" />
         <mark key="." line="952" column="25" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/annotation_config_template.yml" timestamp="1562745380252">
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/annotation_config_template.yml" timestamp="1562771034669">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1562229015199">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562767775705">
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562770713524">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="47" />
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562759113615">
-        <mark key="'" line="67" column="11" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="64" column="71" />
-        <mark key="." line="68" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562770994640">
+        <mark key="'" line="62" column="11" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562745083657">
         <mark key="[" line="0" column="0" />
@@ -88,7 +82,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562759118860">
+      <file name="/Dummy.txt" timestamp="1562771181645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -137,34 +131,34 @@
         <text encoding="base64">XDxub3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBfcmVzdWx0ID0gRGlyZWN0b3J5Q29tcChyJ2M6XGRpcjEnLCByJ2M6XGRpcjInKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2FjdHVhbF9yZXN1bHRzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGV4cGVjdGVkX3Jlc3VsdHNfemlwX3BhdGggPSBvcy5wYXRoLmpvaW4obW9kdWxlX3BhdGgsIEVYUEVDVEVEX1JFU1VMVFNfQVJDSElWRV9GSUxFKQogICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoZXhwZWN0ZWRfcmVzdWx0c196aXBfcGF0aCwgJ3InKSBhcyB6aXBfcmVmOgogICAgICAgIG91dF9kaXIgPSBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2V4cGVjdGVkX3Jlc3VsdHMnKQogICAgICAgIHppcF9yZWYuZXh0cmFjdGFsbChvdXRfZGlyKQogICAgICAgIHJldHVybiBvdXRfZGly</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY29tcF9yZXN1bHQgPSBEaXJlY3RvcnlDb21wKHInYzpcZGlyMScsIHInYzpcZGlyMicpCg==</text>
+        <text encoding="base64">aW1wb3J0IHppcGZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4gc3RhcnQgb2YgcmVzdWx0cycpCiAgICBwcmludChvcy5saXN0ZGlyKGFjdHVhbF9yZXN1bHRzX2RpcikpCiAgICBwcmludCgnPDw8IHN0YXJ0IG9mIHJlc3VsdHMnKQoKICAgIGFzc2VydCAxMCA9PSAxMAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
+        <text encoding="base64">ICAgICMgY29tcF9yZXN1bHQgPSBEaXJlY3RvcnlDb21wKHInYzpcZGlyMScsIHInYzpcZGlyMicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4gc3RhcnQgb2YgcmVzdWx0cycpCiAgICBwcmludChvcy5saXN0ZGlyKGFjdHVhbF9yZXN1bHRzX2RpcikpCiAgICBwcmludCgnPDw8IHN0YXJ0IG9mIHJlc3VsdHMnKQoKICAgIGFzc2VydCAxMCA9PSAxMAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGFjdHVhbF9yZXN1bHRzX2Rpcih0ZW1wX3Jlc3VsdHNfZGlyKSAtPiBzdHI6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19kaXIsICdhY3R1YWxfcmVzdWx0cycpCg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
