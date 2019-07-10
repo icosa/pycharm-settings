@@ -25,12 +25,12 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562752786239">
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562758130033">
         <mark key="'" line="67" column="11" />
-        <mark key="[" line="64" column="72" />
-        <mark key="]" line="64" column="72" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
         <mark key="^" line="64" column="71" />
-        <mark key="." line="64" column="72" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562745083657">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562658280280">
+      <file name="/Dummy.txt" timestamp="1562758282651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -140,31 +140,31 @@
         <text encoding="base64">ICAgIGNvbXBfcmVzdWx0ID0gRGlyZWN0b3J5Q29tcChyJ2M6XGRpcjEnLCByJ2M6XGRpcjInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4gc3RhcnQgb2YgcmVzdWx0cycpCiAgICBwcmludChvcy5saXN0ZGlyKGFjdHVhbF9yZXN1bHRzX2RpcikpCiAgICBwcmludCgnPDw8IHN0YXJ0IG9mIHJlc3VsdHMnKQoKICAgIGFzc2VydCAxMCA9PSAxMAoK</text>
+        <text encoding="base64">ICAgICMgY29tcF9yZXN1bHQgPSBEaXJlY3RvcnlDb21wKHInYzpcZGlyMScsIHInYzpcZGlyMicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4gc3RhcnQgb2YgcmVzdWx0cycpCiAgICBwcmludChvcy5saXN0ZGlyKGFjdHVhbF9yZXN1bHRzX2RpcikpCiAgICBwcmludCgnPDw8IHN0YXJ0IG9mIHJlc3VsdHMnKQoKICAgIGFzc2VydCAxMCA9PSAxMAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGFjdHVhbF9yZXN1bHRzX2Rpcih0ZW1wX3Jlc3VsdHNfZGlyKSAtPiBzdHI6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19kaXIsICdhY3R1YWxfcmVzdWx0cycpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGFjdHVhbF9yZXN1bHRzX2Rpcih0ZW1wX3Jlc3VsdHNfZGlyKSAtPiBzdHI6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKHRlbXBfcmVzdWx0c19kaXIsICdhY3R1YWxfcmVzdWx0cycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKG91dF9kaXIsICdJT1BfRXhwbG9yYXRvcnlfVGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKG91dF9kaXIsICdJT1BfRXhwbG9yYXRvcnlfVGVzdCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXRoczogWyJJT1BfQW5ub3RhdGlvbl9IYW5kbGluZ19UZXN0L05TQ0xDIl0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
