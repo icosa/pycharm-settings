@@ -16,16 +16,11 @@
         <mark key="^" line="952" column="25" />
         <mark key="." line="952" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1562229015199">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562740290137">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="30" />
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1562741497508">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1562697691412">
         <mark key="[" line="0" column="0" />
@@ -79,6 +74,7 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562741614455" />
       <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="28" column="0" />
@@ -110,7 +106,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>new unexpected files/folders were created!</text>
+        <text>NSCLC</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
