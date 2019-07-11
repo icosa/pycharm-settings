@@ -20,11 +20,11 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562850260963">
-        <mark key="[" line="40" column="108" />
-        <mark key="]" line="40" column="85" />
-        <mark key="." line="40" column="85" />
-        <mark key="^" line="40" column="85" />
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562852685872">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1562745083657">
         <mark key="[" line="0" column="0" />
@@ -78,15 +78,15 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_datasource.py" timestamp="1562850228235">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="93" column="51" />
+      <file name="C:/dev/definiens/QCmonkey/test/unit/test_datasource.py" timestamp="1562851798280">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="56" />
       </file>
       <file name="C:/dev/definiens/import-script/README.md" timestamp="1562229084363">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562848317396">
+      <file name="/Dummy.txt" timestamp="1562852688648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -99,7 +99,7 @@
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
       </file>
-      <file name="/" timestamp="1562746141911">
+      <file name="/" timestamp="1562852122832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1562747075750">
@@ -108,11 +108,11 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562850191075">
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="57" column="41" />
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562852515153">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
         <mark key="^" line="58" column="9" />
-        <mark key="." line="58" column="22" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
         <mark key="'" line="30" column="17" />
@@ -136,40 +136,40 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>mock_user</text>
+        <text>not_called</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>IOP_Exploratory_Test_operator1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyBAcHl0ZXN0LmZpeHR1cmUoc2NvcGU9J21vZHVsZScpCiMgZGVmIG1vZHVsZV9wYXRoKCkgLT4gc3RyOgojICAgICByZXR1cm4gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdtb2R1bGUnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHInYzpcb3V0Jwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQobGVuKGFyZ3MpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdtb2R1bGUnKQpkZWYgdGVtcF9yZXN1bHRzX2Rpcih0bXBkaXJfZmFjdG9yeSk6CiAgICB0ZW1wX2ZvbGRlciA9IHRtcGRpcl9mYWN0b3J5Lm1rdGVtcCgncWNfcmVzdWx0c190ZXN0JykKICAgIHlpZWxkIHRlbXBfZm9sZGVyCiAgICBzaHV0aWwucm10cmVlKHN0cih0ZW1wX2ZvbGRlcikpCgoK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX3Jlc3VsdHNfemlwX3BhdGggPSBvcy5wYXRoLmpvaW4obW9kdWxlX3BhdGgsIEVYUEVDVEVEX1JFU1VMVFNfQVJDSElWRV9GSUxFKQogICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoZXhwZWN0ZWRfcmVzdWx0c196aXBfcGF0aCwgJ3InKSBhcyB6aXBfcmVmOgogICAgICAgIG91dF9kaXIgPSBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2V4cGVjdGVkX3Jlc3VsdHMnKQogICAgICAgIHppcF9yZWYuZXh0cmFjdGFsbChvdXRfZGlyKQogICAgICAgIHJldHVybiBvdXRfZGly</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBUWFVTRVI6IElPUF9FeHBsb3JhdG9yeV9UZXN0X29wZXJhdG9yMQogICAgVFhQQVNTOiAxMjM0NTY3ODkwCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgIHByaW50KGRpcihnZXR1c2VyX21vY2spKQogICAgcHJpbnQoJz4+Pj4+Pj4+Pj4+Pj4+Pj4nKQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBnZXR1c2VyX21vY2suYXNzZXJ0X2NhbGxlZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBnZXR1c2VyX21vY2suYXNzZXJ0X2NhbGwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBxY21vbmtleS5kYXRhc291cmNlIGltcG9ydCBEYXRhU291cmNlCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IyBAcHl0ZXN0LmZpeHR1cmUoc2NvcGU9J21vZHVsZScpCiMgZGVmIG1vZHVsZV9wYXRoKCkgLT4gc3RyOgojICAgICByZXR1cm4gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdtb2R1bGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHppcGZpbGUK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHInYzpcb3V0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
