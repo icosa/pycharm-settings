@@ -82,7 +82,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562836358959">
+      <file name="/Dummy.txt" timestamp="1562848317396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -104,7 +104,12 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562741614455" />
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562848313760">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="22" />
+        <mark key="^" line="58" column="9" />
+        <mark key="." line="58" column="22" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="28" column="0" />
@@ -127,13 +132,13 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>, module_path</text>
+        <text>IOP_Exploratory_Test_operator1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>os.path.dirname(__file__)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFRYVVNFUjogSU9QX0V4cGxvcmF0b3J5X1Rlc3Rfb3BlcmF0b3IxCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IyBAcHl0ZXN0LmZpeHR1cmUoc2NvcGU9J21vZHVsZScpCiMgZGVmIG1vZHVsZV9wYXRoKCkgLT4gc3RyOgojICAgICByZXR1cm4gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQoK</text>
