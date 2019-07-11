@@ -9,7 +9,7 @@
         <mark key="^" line="952" column="25" />
         <mark key="." line="952" column="25" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/annotation_config_template.yml" timestamp="1562771034669">
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/annotation_config_template.yml" timestamp="1562834901700">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -20,11 +20,11 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562770994640">
-        <mark key="'" line="62" column="11" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562835927986">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562745083657">
         <mark key="[" line="0" column="0" />
@@ -82,7 +82,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562771181645">
+      <file name="/Dummy.txt" timestamp="1562836358959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -119,58 +119,60 @@
       <jump line="17" column="0" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
       <jump line="27" column="8" filename="C:/dev/definiens/QCmonkey/test/folder_comp.py" />
       <jump line="67" column="11" filename="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" />
+      <jump line="13" column="0" filename="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" />
+      <jump line="15" column="4" filename="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, module_path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RcPg==</text>
+        <text encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2FjdHVhbF9yZXN1bHRzJykK</text>
+      <register name="0" type="4">
+        <text>os.path.dirname(__file__)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyBAcHl0ZXN0LmZpeHR1cmUoc2NvcGU9J21vZHVsZScpCiMgZGVmIG1vZHVsZV9wYXRoKCkgLT4gc3RyOgojICAgICByZXR1cm4gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX3Jlc3VsdHNfemlwX3BhdGggPSBvcy5wYXRoLmpvaW4obW9kdWxlX3BhdGgsIEVYUEVDVEVEX1JFU1VMVFNfQVJDSElWRV9GSUxFKQogICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoZXhwZWN0ZWRfcmVzdWx0c196aXBfcGF0aCwgJ3InKSBhcyB6aXBfcmVmOgogICAgICAgIG91dF9kaXIgPSBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2V4cGVjdGVkX3Jlc3VsdHMnKQogICAgICAgIHppcF9yZWYuZXh0cmFjdGFsbChvdXRfZGlyKQogICAgICAgIHJldHVybiBvdXRfZGly</text>
+      <register name="2" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdtb2R1bGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHppcGZpbGUK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHInYzpcb3V0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobGVuKGFyZ3MpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY29tcF9yZXN1bHQgPSBEaXJlY3RvcnlDb21wKHInYzpcZGlyMScsIHInYzpcZGlyMicpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdtb2R1bGUnKQpkZWYgdGVtcF9yZXN1bHRzX2Rpcih0bXBkaXJfZmFjdG9yeSk6CiAgICB0ZW1wX2ZvbGRlciA9IHRtcGRpcl9mYWN0b3J5Lm1rdGVtcCgncWNfcmVzdWx0c190ZXN0JykKICAgIHlpZWxkIHRlbXBfZm9sZGVyCiAgICBzaHV0aWwucm10cmVlKHN0cih0ZW1wX2ZvbGRlcikpCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4gc3RhcnQgb2YgcmVzdWx0cycpCiAgICBwcmludChvcy5saXN0ZGlyKGFjdHVhbF9yZXN1bHRzX2RpcikpCiAgICBwcmludCgnPDw8IHN0YXJ0IG9mIHJlc3VsdHMnKQoKICAgIGFzc2VydCAxMCA9PSAxMAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGV4cGVjdGVkX3Jlc3VsdHNfemlwX3BhdGggPSBvcy5wYXRoLmpvaW4obW9kdWxlX3BhdGgsIEVYUEVDVEVEX1JFU1VMVFNfQVJDSElWRV9GSUxFKQogICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoZXhwZWN0ZWRfcmVzdWx0c196aXBfcGF0aCwgJ3InKSBhcyB6aXBfcmVmOgogICAgICAgIG91dF9kaXIgPSBvcy5wYXRoLmpvaW4odGVtcF9yZXN1bHRzX2RpciwgJ2V4cGVjdGVkX3Jlc3VsdHMnKQogICAgICAgIHppcF9yZWYuZXh0cmFjdGFsbChvdXRfZGlyKQogICAgICAgIHJldHVybiBvdXRfZGly</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIHJlc3VsdHMgPSBjb21wX3Jlc3VsdC5yZXBvcnRfZnVsbF9jbG9zdXJlKCkKICAgICMgcHJpbnQocmVzdWx0cykKICAgICMgcHJpbnQoc3RyKGNvbXBfcmVzdWx0LnJlcG9ydF9mdWxsX2Nsb3N1cmUoKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHppcGZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RcPg==</last-search>
+      <last-search encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>target</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -180,6 +182,7 @@
         <entry>source</entry>
         <entry>target</entry>
         <entry encoding="base64">XDxub3RcPg==</entry>
+        <entry encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
