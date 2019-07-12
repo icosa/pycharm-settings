@@ -53,7 +53,6 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/cli.py" timestamp="1562592669049" />
       <file name="C:/dev/definiens/QCmonkey/setup.py" timestamp="1562664716892">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="30" />
@@ -88,6 +87,9 @@
         <mark key="]" line="44" column="128" />
       </file>
       <file name="/Dummy.txt" timestamp="1562856785976">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562925382253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
@@ -127,7 +129,6 @@
         <mark key="]" line="28" column="43" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="C:/Python36/Lib/filecmp.py" timestamp="1562695692168" />
     </filemarks>
     <jumps>
       <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
