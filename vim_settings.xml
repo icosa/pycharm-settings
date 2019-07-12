@@ -111,6 +111,10 @@
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1562961005800">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="16" column="19" />
+      </file>
       <file name="/" timestamp="1562852122832">
         <mark key="[" line="0" column="0" />
       </file>
@@ -154,7 +158,10 @@
         <text>if</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC0tY292PXFjbW9ua2V5IC0tY292LWJyYW5jaCAtLWNvdi1yZXBvcnQ9dGVybS1taXNzaW5n</text>
+        <text>pip install --trusted-host pypi.insights.definiens.com ^
+            --extra-index-url http://pypi.insights.definiens.com:8080 ^
+            --prefer-binary ^
+            qcmonkey</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
