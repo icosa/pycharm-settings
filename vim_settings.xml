@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562952551423">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562960305565">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -148,7 +148,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY292PXFjbW9ua2V5IC0tY292LWJyYW5jaCAtLWNvdi1yZXBvcnQ9dGVybS1taXNzaW5n</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
