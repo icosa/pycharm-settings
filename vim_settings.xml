@@ -89,8 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562925382253">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562952551423">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -117,7 +120,7 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562856684951">
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1562952423101">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="55" column="17" />
