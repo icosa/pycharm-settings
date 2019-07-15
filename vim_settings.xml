@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563178068637">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563190403259">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="66" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -111,7 +111,7 @@
         <mark key="[" line="445" column="0" />
         <mark key="]" line="448" column="48" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1562961005800">
+      <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1563189747827">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="16" column="19" />
       </file>
@@ -152,7 +152,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>med2image</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
@@ -161,31 +161,31 @@
         <text>/onegrid/python36:2.0.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIG5pYmFiZWwgcHlkaWNvbSBtYXRwbG90bGliIHBpbGxvdyAmJiBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgTWVhc3VyZSBjb3ZlcmFnZSBvbmx5IGZvciB1bml0IHRlc3RzCg==</text>
+        <text encoding="base64">UlVOCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgTWVhc3VyZSBjb3ZlcmFnZSBvbmx5IGZvciB1bml0IHRlc3RzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgTWVhc3VyZSBjb3ZlcmFnZSBvbmx5IGZvciB1bml0IHRlc3RzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgTWVhc3VyZSBjb3ZlcmFnZSBvbmx5IGZvciB1bml0IHRlc3RzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBUWFVTRVI6IElPUF9FeHBsb3JhdG9yeV9UZXN0X29wZXJhdG9yMQogICAgVFhQQVNTOiAxMjM0NTY3ODkwCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgIHByaW50KGRpcihnZXR1c2VyX21vY2spKQogICAgcHJpbnQoJz4+Pj4+Pj4+Pj4+Pj4+Pj4nKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBnZXR1c2VyX21vY2suYXNzZXJ0X2NhbGxlZAo=</text>
+        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBUWFVTRVI6IElPUF9FeHBsb3JhdG9yeV9UZXN0X29wZXJhdG9yMQogICAgVFhQQVNTOiAxMjM0NTY3ODkwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBnZXR1c2VyX21vY2suYXNzZXJ0X2NhbGwK</text>
+        <text encoding="base64">ICAgIHByaW50KCc+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgIHByaW50KGRpcihnZXR1c2VyX21vY2spKQogICAgcHJpbnQoJz4+Pj4+Pj4+Pj4+Pj4+Pj4nKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
