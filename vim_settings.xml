@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563175393192">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563178068637">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -124,9 +124,9 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1563176090595">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/.gitlab-ci.yml" timestamp="1563178059557">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="47" />
         <mark key="^" line="55" column="17" />
         <mark key="." line="29" column="0" />
       </file>
@@ -152,16 +152,13 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
       <register name="0" type="4">
-        <text>pip install --trusted-host pypi.insights.definiens.com ^
-            --extra-index-url http://pypi.insights.definiens.com:8080 ^
-            --prefer-binary ^
-            qcmonkey</text>
+        <text>/onegrid/python36:2.0.0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -220,8 +217,8 @@
         <entry>%s/target/right/g</entry>
         <entry>w2</entry>
         <entry>%s/if/for/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
