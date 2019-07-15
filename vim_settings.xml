@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1562960305565">
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563175393192">
         <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -215,13 +215,13 @@
       </history-search>
       <history-cmd>
         <entry>sw</entry>
-        <entry>W</entry>
         <entry>%s/folder/dir/</entry>
         <entry>%s/source/left/g</entry>
         <entry>%s/target/right/g</entry>
         <entry>w2</entry>
         <entry>%s/if/for/g</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
