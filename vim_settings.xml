@@ -82,9 +82,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="56" />
       </file>
-      <file name="C:/dev/definiens/import-script/README.md" timestamp="1562229084363">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="128" />
+      <file name="C:/dev/definiens/import-script/README.md" timestamp="1563276667852">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="127" />
       </file>
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
@@ -118,9 +118,10 @@
       <file name="/" timestamp="1562852122832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/import-script/setup.py" timestamp="1563271259434">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="40" />
+      <file name="C:/dev/definiens/import-script/setup.py" timestamp="1563276728750">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1563264941768">
         <mark key="[" line="28" column="10" />
@@ -133,12 +134,6 @@
         <mark key="]" line="19" column="47" />
         <mark key="^" line="55" column="17" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" timestamp="1562670940235">
-        <mark key="'" line="30" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="24" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -162,7 +157,7 @@
         <text>if</text>
       </register>
       <register name="0" type="4">
-        <text>content-service-client==0.0.181&quot;</text>
+        <text>--trusted-host pypi.insights.definiens.com --extra-index-url http://pypi.insights.definiens.com:8080</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIG5pYmFiZWwgcHlkaWNvbSBtYXRwbG90bGliIHBpbGxvdyAmJiBcCg==</text>
