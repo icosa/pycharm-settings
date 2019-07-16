@@ -86,14 +86,14 @@
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="127" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562856785976">
+      <file name="/Dummy.txt" timestamp="1563285411435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563284547975">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="23" column="38" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563285281833">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="51" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -151,7 +151,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;annotations&quot;, &quot;--config&quot;, &quot;/config/annotation_config.yml&quot;</text>
+        <text encoding="base64">IGFubm90YXRpb25zIC0tY29uZmlnIC9jb25maWcvYW5ub3RhdGlvbl9jb25maWcueW1sIg==</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
