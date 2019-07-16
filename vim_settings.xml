@@ -14,11 +14,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563198338045">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563263562896">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
         <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562854586083">
         <mark key="'" line="49" column="0" />
@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563195893046">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563264102250">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -152,7 +152,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>C:\QCMonkey_results</text>
+        <text>[&quot;/bin/bash&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
