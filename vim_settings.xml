@@ -89,11 +89,11 @@
       <file name="/Dummy.txt" timestamp="1562856785976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563264102250">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563284547975">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="38" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="23" column="38" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/.gitignore" timestamp="1562658283613">
         <mark key="[" line="2" column="4" />
@@ -151,13 +151,13 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;/bin/bash&quot;]</text>
+        <text>, &quot;annotations&quot;, &quot;--config&quot;, &quot;/config/annotation_config.yml&quot;</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
-      <register name="0" type="4">
-        <text>--trusted-host pypi.insights.definiens.com --extra-index-url http://pypi.insights.definiens.com:8080</text>
+      <register name="0" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJweXRob24iLCAiLW0iLCAicWNtb25rZXkiLCAiYW5ub3RhdGlvbnMiLCAiLS1jb25maWciLCAiL2NvbmZpZy9hbm5vdGF0aW9uX2NvbmZpZy55bWwiXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIG5pYmFiZWwgcHlkaWNvbSBtYXRwbG90bGliIHBpbGxvdyAmJiBcCg==</text>
