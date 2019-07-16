@@ -118,7 +118,10 @@
       <file name="/" timestamp="1562852122832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/import-script/setup.py" timestamp="1563269880018" />
+      <file name="C:/dev/definiens/import-script/setup.py" timestamp="1563271259434">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="40" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/qcmonkey/__main__.py" timestamp="1563264941768">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="10" />
@@ -159,7 +162,7 @@
         <text>if</text>
       </register>
       <register name="0" type="4">
-        <text>/onegrid/python36:2.0.0</text>
+        <text>content-service-client==0.0.181&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIG5pYmFiZWwgcHlkaWNvbSBtYXRwbG90bGliIHBpbGxvdyAmJiBcCg==</text>
