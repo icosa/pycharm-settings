@@ -14,9 +14,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563440406114">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563443101658">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="13" />
       </file>
@@ -27,9 +27,9 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="48" column="18" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/docker-compose.yml" timestamp="1563363601638">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="6" column="13" />
+      <file name="C:/dev/definiens/QCmonkey/docker-compose.yml" timestamp="1563442302584">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="16" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
@@ -92,7 +92,7 @@
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="127" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563285411435">
+      <file name="/Dummy.txt" timestamp="1563443593108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563362050568">
@@ -162,8 +162,8 @@
       <register name="/" type="4">
         <text>if</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RlJPTSByZWdpc3RyeS5pbnNpZ2h0cy5kZWZpbmllbnMuY29tL29uZWdyaWQvcHl0aG9uMzY6Mi4wLjAKCiNGUk9NIGNlbnRvcy9weXRob24tMzYtY2VudG9zNwoKI0ZST00gICAgZmVkb3JhOjI4CiNSVU4gICAgIGxuIC1zIC91c3IvYmluL3B5dGhvbjMgL3Vzci9iaW4vcHl0aG9uCiNSVU4gICAgIGxuIC1zIC91c3IvYmluL3BpcDMgL3Vzci9iaW4vcGlwCiNSVU4gICAgIHl1bSBpbnN0YWxsIC15IGdkYWwtcHl0aG9uMyAmJiB5dW0gY2xlYW4gYWxsICYmIHJtIC1yZiAvdmFyL2NhY2hlL3l1bQoKVk9MVU1FIC9jb25maWcgL3JlcG9ydHMKCldPUktESVIgL3Vzci9xY20KCkNPUFkgcWNtb25rZXkvIHFjbW9ua2V5LwpDT1BZIHNldHVwLnB5IC4vCgpSVU4gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciBcCiAgICAgICAgLS10cnVzdGVkLWhvc3QgcHlwaS5pbnNpZ2h0cy5kZWZpbmllbnMuY29tIFwKICAgICAgICAtLWV4dHJhLWluZGV4LXVybCBodHRwOi8vcHlwaS5pbnNpZ2h0cy5kZWZpbmllbnMuY29tOjgwODAgXAogICAgICAgIC0tcHJlZmVyLWJpbmFyeSBxY21vbmtleQoKIyB3b3JrZWQKRU5UUllQT0lOVCBbInB5dGhvbiIsICItbSIsICJxY21vbmtleSJdCgojRU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJweXRob24gLW0gcWNtb25rZXkgYW5ub3RhdGlvbnMgLS1jb25maWcgL2NvbmZpZy9hbm5vdGF0aW9uX2NvbmZpZy55bWwiXQojRU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJweXRob24iLCAiLW0iLCAicWNtb25rZXkiXQojRU5UUllQT0lOVCBweXRob24gLW0gcWNtb25rZXkgYW5ub3RhdGlvbnMgLS1jb25maWcgL2NvbmZpZy9hbm5vdGF0aW9uX2NvbmZpZy55bWwKCkNNRCBbImFubm90YXRpb25zIiwgIi0tY29uZmlnIiwgIi9jb25maWcvYW5ub3RhdGlvbl9jb25maWcueW1sIl0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZXhwb3J0X3BhdGg6CiAgICBmb2xkZXI6IC9yZXBvcnRzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgogICAgLSAiNTAwMDo1MDAwIgogICAgdm9sdW1lczoKICAgIC0gLjovY29kZQogICAgLSBsb2d2b2x1bWUwMTovdmFyL2xvZwogICAgbGlua3M6CiAgICAtIHJlZGlzCiAgcmVkaXM6CiAgICBpbWFnZTogcmVkaXMKdm9sdW1lczoKICBsb2d2b2x1bWUwMToge30K</text>
