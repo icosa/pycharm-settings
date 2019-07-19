@@ -9,10 +9,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563543361997">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563548395681">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
         <mark key="[" line="952" column="25" />
@@ -31,18 +32,17 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/test/qc_results/test_qc_results.py" timestamp="1562854586083">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-      </file>
       <file name="C:/dev/definiens/QCmonkey/docker-compose.yml" timestamp="1563442302584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="16" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
+      </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563548348703">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="/a.dummy" timestamp="1563542560988">
         <mark key="[" line="0" column="0" />
@@ -56,13 +56,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="48" column="70" />
-      </file>
-      <file name="C:/dev/definiens/QCmonkey/test/folder_comp.py" timestamp="1562700266925">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="36" column="46" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
