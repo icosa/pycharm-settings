@@ -9,10 +9,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563541629873">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563543361997">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
         <mark key="[" line="952" column="25" />
@@ -79,10 +79,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="30" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus-be/__main__.py" timestamp="1563540966389">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus-be/__main__.py" timestamp="1563543769942">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="C:/Python36/Lib/getpass.py" timestamp="1562616155294">
         <mark key="[" line="169" column="0" />
@@ -113,10 +114,10 @@
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="127" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/tests/bla_test.py" timestamp="1563542733205">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="C:/dev/definiens/sidus/sidus-be/tests/bla_test.py" timestamp="1563543791595">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1563542479253">
         <mark key="[" line="0" column="0" />
@@ -201,7 +202,7 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>re.match(pattern, VERSION)</text>
+        <text encoding="base64">IC0+IGZsb2F0</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
