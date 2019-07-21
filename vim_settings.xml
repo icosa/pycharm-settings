@@ -136,6 +136,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/simply.py" timestamp="1563696210078">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="C:/dev/definiens/import-script/importscript/__main__.py" timestamp="1563538410394">
         <mark key="[" line="503" column="0" />
         <mark key="]" line="521" column="15" />
@@ -176,6 +182,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/abc/module2.py" timestamp="1563696225683">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
@@ -198,7 +210,7 @@
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBpID0gQXBpKGFwcCkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50KCJJJ20gaW4gbWFpbiIpCmVsc2U6CiAgICBwcmludCgiSSdtIGluICIgKyBfX25hbWVfXykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXBpID0gQXBpKGFwcCkK</text>
@@ -228,7 +240,7 @@
         <text encoding="base64">IyBjb250ZW50IG9mIHRlc3Rfc2FtcGxlLnB5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -259,8 +271,8 @@
         <entry>%s/if/for/g</entry>
         <entry>W</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
