@@ -44,7 +44,7 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1563789980494">
+      <file name="/a.dummy" timestamp="1563805222205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562700340611">
@@ -111,12 +111,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563788318113">
+      <file name="/Dummy.txt" timestamp="1563805043707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/vt.py" timestamp="1563804016147">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="21" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/vt.py" timestamp="1563805185703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="0" />
         <mark key="." line="28" column="21" />
         <mark key="^" line="24" column="20" />
       </file>
@@ -200,6 +200,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/work_context.py" timestamp="1563805607650">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="5" column="37" />
+      </file>
       <file name="C:/dev/definiens/sidus/sidus-be/abc/module2.py" timestamp="1563696225683">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="3" column="19" />
@@ -236,13 +242,13 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJjb25uZXhpb24iLAogICAgInR4YXBpPj0yLjQuNSw9PTIuKiIK</text>
+        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgTmFtZXNwYWNlLCBSZXNvdXJjZSwgZmllbGRzCgoKYXBpID0gTmFtZXNwYWNlKCd2dCcsIGRlc2NyaXB0aW9uPSdWZXJpdHJvdmEgcmVsYXRlZCBvcGVyYXRpb25zJykKCnByb2plY3RfbW9kZWwgPSBhcGkubW9kZWwoJ1Byb2plY3QnLCB7CiAgICAnaWQnOiBmaWVsZHMuU3RyaW5nKHJlcXVpcmVkPVRydWUsIGRlc2NyaXB0aW9uPSdUaGUgcHJvamVjdCBpZGVudGlmaWVyJyksCiAgICAnbmFtZSc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9RmFsc2UsIGRlc2NyaXB0aW9uPSdUaGUgcHJvamVjdHMgbmFtZScpLAp9KQoKUFJPSkVDVFMgPSBbCiAgICB7J2lkJzogJzExMTExJywgJ25hbWUnOiAnUHJvamVjdCAxJ30sCiAgICB7J2lkJzogJzIyMjIyJywgJ25hbWUnOiAnUHJvamVjdCAyJ30sCl0KCgpAYXBpLnJvdXRlKCcvJykKY2xhc3MgUHJvamVjdExpc3QoUmVzb3VyY2UpOgogICAgQGFwaS5kb2MoJ2xpc3RfcHJvamVjdHMnKQogICAgQGFwaS5tYXJzaGFsX2xpc3Rfd2l0aChwcm9qZWN0X21vZGVsKQogICAgZGVmIGdldChzZWxmKToKICAgICAgICByZXR1cm4gUFJPSkVDVFMKCgpAYXBpLnJvdXRlKCcvPGlkPicpCkBhcGkucGFyYW0oJ2lkJywgJ1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKQpAYXBpLnJlc3BvbnNlKDQwNCwgJ1Byb2plY3Qgbm90IGZvdW5kJykKY2xhc3MgUHJvamVjdChSZXNvdXJjZSk6CiAgICBAYXBpLmRvYygnZ2V0X3Byb2plY3QnKQogICAgQGFwaS5tYXJzaGFsX3dpdGgocHJvamVjdF9tb2RlbCkKICAgIGRlZiBnZXQoc2VsZiwgaWQpOgogICAgICAgICIiIkZldGNoIGEgcHJvamVjdCBnaXZlbiBpdHMgaWRlbnRpZmllciIiIgogICAgICAgIGZvciBwcm9qZWN0IGluIFBST0pFQ1RTOgogICAgICAgICAgICBpZiBwcm9qZWN0WydpZCddID09IGlkOgogICAgICAgICAgICAgICAgcmV0dXJuIHByb2plY3QKICAgICAgICBhcGkuYWJvcnQoNDA0KQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNhc2Vfc2VydmVyID0gZ2V0X2Nhc2Vfc2VydmVyKCkKICAgIHJvb3RfZm9sZGVyID0gVHhGb2xkZXIoY2FzZV9zZXJ2ZXIpCgo=</text>
