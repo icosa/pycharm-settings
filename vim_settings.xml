@@ -9,7 +9,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563804422355">
+      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563809513505">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
@@ -38,13 +38,13 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563787917879">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="65" />
-        <mark key="^" line="5" column="65" />
-        <mark key="." line="5" column="65" />
+      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563808775140">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1563806291799">
+      <file name="/a.dummy" timestamp="1563808379748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_qc_results.py" timestamp="1562700340611">
@@ -53,11 +53,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="48" column="70" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/__init__.py" timestamp="1563787922913">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/__init__.py" timestamp="1563808414898">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
@@ -107,7 +107,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563805043707">
+      <file name="/Dummy.txt" timestamp="1563808637689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/vt.py" timestamp="1563805185703">
@@ -145,6 +145,12 @@
         <mark key="]" line="3" column="31" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/Dockerfile" timestamp="1563809486732">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1563804293069">
         <mark key="[" line="13" column="8" />
@@ -196,11 +202,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/work_context.py" timestamp="1563807028067">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/work_context.py" timestamp="1563808436025">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="C:/dev/definiens/sidus/sidus-be/abc/module2.py" timestamp="1563696225683">
         <mark key="[" line="1" column="11" />
@@ -238,40 +244,40 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>vt_server</text>
+        <text>./</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
-      <register name="0" type="4">
-        <text>vt_projects</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBpLmFkZF9uYW1lc3BhY2UodnRfYXBpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdpZCc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9VHJ1ZSwgZGVzY3JpcHRpb249J1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdpZCc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9VHJ1ZSwgZGVzY3JpcHRpb249J1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKSwK</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsnaWQnOiAnMjIyMjInLCAnbmFtZSc6ICdQcm9qZWN0IDInfSwK</text>
+        <text encoding="base64">TUFJTlRBTkVSIFlvdXIgTmFtZSAieW91cmVtYWlsQGRvbWFpbi50bGQiCgpSVU4gYXB0LWdldCB1cGRhdGUgLXkgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15IHB5dGhvbi1waXAgcHl0aG9uLWRldgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2Vfc2VydmVyID0gZ2V0X2Nhc2Vfc2VydmVyKCkKICAgIHJvb3RfZm9sZGVyID0gVHhGb2xkZXIoY2FzZV9zZXJ2ZXIpCgo=</text>
+        <text encoding="base64">ICAgICdpZCc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9VHJ1ZSwgZGVzY3JpcHRpb249J1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlX3NlcnZlciA9IGdldF9jYXNlX3NlcnZlcigpCiAgICAgICAgcm9vdF9mb2xkZXIgPSBUeEZvbGRlcihjYXNlX3NlcnZlcikKCg==</text>
+        <text encoding="base64">ICAgICdpZCc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9VHJ1ZSwgZGVzY3JpcHRpb249J1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBweWtpdC5iYXNpY3NraXQgaW1wb3J0IGxvYWRfZnJvbV9qc29uCg==</text>
+        <text encoding="base64">ICAgIHsnaWQnOiAnMjIyMjInLCAnbmFtZSc6ICdQcm9qZWN0IDInfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZV9zZXJ2ZXJfcGFyYW1zID0gbG9hZF9mcm9tX2pzb24oJ2xvZ2luLmpzb24nKQo=</text>
+        <text encoding="base64">ICAgIGNhc2Vfc2VydmVyID0gZ2V0X2Nhc2Vfc2VydmVyKCkKICAgIHJvb3RfZm9sZGVyID0gVHhGb2xkZXIoY2FzZV9zZXJ2ZXIpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlX3NlcnZlciA9IGdldF9jYXNlX3NlcnZlcigpCiAgICAgICAgcm9vdF9mb2xkZXIgPSBUeEZvbGRlcihjYXNlX3NlcnZlcikKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweWtpdC5iYXNpY3NraXQgaW1wb3J0IGxvYWRfZnJvbV9qc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
