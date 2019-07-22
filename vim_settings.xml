@@ -9,10 +9,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563549866343">
-        <mark key="[" line="7" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1563804347709">
+        <mark key="[" line="6" column="25" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/venv/Lib/site-packages/qcmonkey/annotations/processor.py" timestamp="1562592709207">
         <mark key="[" line="952" column="25" />
@@ -149,6 +150,10 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
+      <file name="C:/dev/definiens/QCmonkey/README.md" timestamp="1563804293069">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="16" column="19" />
+      </file>
       <file name="/" timestamp="1562852122832">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,9 +206,9 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/setup.py" timestamp="1563789208480">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/setup.py" timestamp="1563804339757">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="24" />
         <mark key="." line="28" column="18" />
         <mark key="^" line="27" column="29" />
       </file>
@@ -237,7 +242,7 @@
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluc3RhbGxfcmVxdWlyZXM9WwogICAgICAgICdkZWZpbmllbnMtcHlraXR+PTAuNCcsCiAgICAgICAgJ2dlb3BhbmRhc349MC4zLjAnLCAgIyAwLjQgbGVhZHMgdG8gQXR0cmlidXRlRXJyb3I6ICdNdWx0aVBvbHlnb24nIG9iamVjdCBoYXMgbm8gYXR0cmlidXRlICdleHRlcmlvcicKICAgICAgICAnUnRyZWU+PTAuOC4zJywgICMgcmVxdWlyZW1lbnQgb2YgZ2VvcGFuZGFzIGZvciBlZmZpY2llbnQgc3BhdGlhbCBqb2lucyBhbmQgaW50ZXJzZWN0aW9ucwogICAgICAgICdwYW5kYXM+PTAuMjMuNCcsCiAgICAgICAgJ29wZW5jdi1weXRob24+PTMuNC41JywKICAgICAgICAnUHlZQU1MPj0zLjEzJywKICAgICAgICAndHhhcGk+PTIuNS4wJywKICAgICAgICAndHFkbT49NC4zMS4xJywKICAgICAgICAnbnVtcHl+PTEuMTQnLAogICAgICAgICdTaGFwZWx5fj0xLjYuMScsCiAgICAgICAgJ3Jhc3RlcmlvPT0xLjBhOScgICMgUmVzdHJpY3RpbmcgdG8gZml0IHB5a2l0J3MgZGVwZW5kZW5jaWVzLCBiZWNhdXNlIHBpcCBkb2VzIG5vdCByZXNvbHZlIGRlcGVuZGVuY2llcwogICAgXSwK</text>
+        <text encoding="base64">ICAgICJjb25uZXhpb24iLAogICAgInR4YXBpPj0yLjQuNSw9PTIuKiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNhc2Vfc2VydmVyID0gZ2V0X2Nhc2Vfc2VydmVyKCkKICAgIHJvb3RfZm9sZGVyID0gVHhGb2xkZXIoY2FzZV9zZXJ2ZXIpCgo=</text>
