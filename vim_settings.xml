@@ -37,11 +37,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563550002808">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563779289981">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1563542560988">
         <mark key="[" line="0" column="0" />
@@ -56,6 +56,7 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="48" column="70" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/__init__.py" timestamp="1563779593560" />
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="10" />
@@ -109,7 +110,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563546021838">
+      <file name="/Dummy.txt" timestamp="1563779625891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/QCmonkey/Dockerfile" timestamp="1563362050568">
@@ -188,6 +189,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus-be/__init__.py" timestamp="1563778995604">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="8" filename="C:/dev/definiens/QCmonkey/test/unit/test_cli.py" />
@@ -204,43 +211,43 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICM=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50KCJJJ20gaW4gbWFpbiIpCmVsc2U6CiAgICBwcmludCgiSSdtIGluICIgKyBfX25hbWVfXykK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgUmVzb3VyY2UsIEFwaQoKYXBwID0gRmxhc2soX19uYW1lX18pCmFwaSA9IEFwaShhcHApCgoKIyBAYXBwLnJvdXRlKCcvJykKIyBkZWYgaGVsbG9fd29ybGQoKToKIyAgICAgcmV0dXJuICdIZWxsbyBXb3JsZCcKCgpAYXBpLnJvdXRlKCcvaGVsbG8nKQpjbGFzcyBIZWxsb1dvcmxkKFJlc291cmNlKToKICAgIGRlZiBnZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIHsnaGVsbG8nOiAnd29ybGQnfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpID0gQXBpKGFwcCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgUmVzb3VyY2UsIEFwaQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAjIHJ1bigpIG1ldGhvZCBvZiBGbGFzayBjbGFzcyBydW5zIHRoZSBhcHBsaWNhdGlvbiBvbiB0aGUgbG9jYWwgZGV2ZWxvcG1lbnQgc2VydmVyLgogICAgIyBhcHAucnVuKGRlYnVnPVRydWUpICMgYWxsb3cgcHl0aG9uIGVycm9yIHRvIGFwcGVhciBvbiB0aGUgd2ViIHBhZ2UK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBtYWluIGRyaXZlciBmdW5jdGlvbgojIGltcG9ydCBzaWR1c19iZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgUmVzb3VyY2UsIEFwaQoKYXBwID0gRmxhc2soX19uYW1lX18pCmFwaSA9IEFwaShhcHApCgoKIyBAYXBwLnJvdXRlKCcvJykKIyBkZWYgaGVsbG9fd29ybGQoKToKIyAgICAgcmV0dXJuICdIZWxsbyBXb3JsZCcKCgpAYXBpLnJvdXRlKCcvaGVsbG8nKQpjbGFzcyBIZWxsb1dvcmxkKFJlc291cmNlKToKICAgIGRlZiBnZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIHsnaGVsbG8nOiAnd29ybGQnfQoKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJbXBvcnRpbmcgZmxhc2sgbW9kdWxlIGluIHRoZSBwcm9qZWN0IGlzIG1hbmRhdG9yeQojIEFuIG9iamVjdCBvZiBGbGFzayBjbGFzcyBpcyBvdXIgV1NHSSBhcHBsaWNhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBGbGFzayBjb25zdHJ1Y3RvciB0YWtlcyB0aGUgbmFtZSBvZgojIGN1cnJlbnQgbW9kdWxlIChfX25hbWVfXykgYXMgYXJndW1lbnQuCg==</text>
+        <text encoding="base64">YXBpID0gQXBpKGFwcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUaGUgcm91dGUoKSBmdW5jdGlvbiBvZiB0aGUgRmxhc2sgY2xhc3MgaXMgYSBkZWNvcmF0b3IsCiMgd2hpY2ggdGVsbHMgdGhlIGFwcGxpY2F0aW9uIHdoaWNoIFVSTCBzaG91bGQgY2FsbAojIHRoZSBhc3NvY2lhdGVkIGZ1bmN0aW9uLgo=</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyCRL5IgVVJMIGlzIGJvdW5kIHdpdGggaGVsbG9fd29ybGQoKSBmdW5jdGlvbi4K</text>
+        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgUmVzb3VyY2UsIEFwaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjb250ZW50IG9mIHRlc3Rfc2FtcGxlLnB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -271,8 +278,8 @@
         <entry>%s/if/for/g</entry>
         <entry>W</entry>
         <entry>x</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -286,6 +293,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
