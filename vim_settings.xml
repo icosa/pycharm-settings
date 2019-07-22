@@ -26,9 +26,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563443101658">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="20" />
+      <file name="C:/dev/definiens/QCmonkey/annotation_config.yml" timestamp="1563805931114">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="33" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="13" />
       </file>
@@ -73,10 +73,6 @@
       <file name="C:/dev/definiens/QCmonkey/setup.py" timestamp="1563804184930">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="54" column="6" />
-      </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus-be/__main__.py" timestamp="1563546930707">
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="3" column="38" />
       </file>
       <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/vt.connection.py" timestamp="1563789589500">
         <mark key="[" line="2" column="0" />
@@ -247,8 +243,8 @@
       <register name="/" type="4">
         <text>if</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgTmFtZXNwYWNlLCBSZXNvdXJjZSwgZmllbGRzCgoKYXBpID0gTmFtZXNwYWNlKCd2dCcsIGRlc2NyaXB0aW9uPSdWZXJpdHJvdmEgcmVsYXRlZCBvcGVyYXRpb25zJykKCnByb2plY3RfbW9kZWwgPSBhcGkubW9kZWwoJ1Byb2plY3QnLCB7CiAgICAnaWQnOiBmaWVsZHMuU3RyaW5nKHJlcXVpcmVkPVRydWUsIGRlc2NyaXB0aW9uPSdUaGUgcHJvamVjdCBpZGVudGlmaWVyJyksCiAgICAnbmFtZSc6IGZpZWxkcy5TdHJpbmcocmVxdWlyZWQ9RmFsc2UsIGRlc2NyaXB0aW9uPSdUaGUgcHJvamVjdHMgbmFtZScpLAp9KQoKUFJPSkVDVFMgPSBbCiAgICB7J2lkJzogJzExMTExJywgJ25hbWUnOiAnUHJvamVjdCAxJ30sCiAgICB7J2lkJzogJzIyMjIyJywgJ25hbWUnOiAnUHJvamVjdCAyJ30sCl0KCgpAYXBpLnJvdXRlKCcvJykKY2xhc3MgUHJvamVjdExpc3QoUmVzb3VyY2UpOgogICAgQGFwaS5kb2MoJ2xpc3RfcHJvamVjdHMnKQogICAgQGFwaS5tYXJzaGFsX2xpc3Rfd2l0aChwcm9qZWN0X21vZGVsKQogICAgZGVmIGdldChzZWxmKToKICAgICAgICByZXR1cm4gUFJPSkVDVFMKCgpAYXBpLnJvdXRlKCcvPGlkPicpCkBhcGkucGFyYW0oJ2lkJywgJ1RoZSBwcm9qZWN0IGlkZW50aWZpZXInKQpAYXBpLnJlc3BvbnNlKDQwNCwgJ1Byb2plY3Qgbm90IGZvdW5kJykKY2xhc3MgUHJvamVjdChSZXNvdXJjZSk6CiAgICBAYXBpLmRvYygnZ2V0X3Byb2plY3QnKQogICAgQGFwaS5tYXJzaGFsX3dpdGgocHJvamVjdF9tb2RlbCkKICAgIGRlZiBnZXQoc2VsZiwgaWQpOgogICAgICAgICIiIkZldGNoIGEgcHJvamVjdCBnaXZlbiBpdHMgaWRlbnRpZmllciIiIgogICAgICAgIGZvciBwcm9qZWN0IGluIFBST0pFQ1RTOgogICAgICAgICAgICBpZiBwcm9qZWN0WydpZCddID09IGlkOgogICAgICAgICAgICAgICAgcmV0dXJuIHByb2plY3QKICAgICAgICBhcGkuYWJvcnQoNDA0KQoK</text>
+      <register name="0" type="4">
+        <text>internal.definiens.local</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNhc2Vfc2VydmVyID0gZ2V0X2Nhc2Vfc2VydmVyKCkKICAgIHJvb3RfZm9sZGVyID0gVHhGb2xkZXIoY2FzZV9zZXJ2ZXIpCgo=</text>
