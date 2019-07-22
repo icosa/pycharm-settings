@@ -37,11 +37,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563779289981">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-be/app.py" timestamp="1563780134571">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="65" />
+        <mark key="^" line="5" column="65" />
+        <mark key="." line="5" column="65" />
       </file>
       <file name="/a.dummy" timestamp="1563542560988">
         <mark key="[" line="0" column="0" />
@@ -56,7 +56,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="48" column="70" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/__init__.py" timestamp="1563779593560" />
+      <file name="C:/dev/definiens/sidus/sidus-be/sidus_be/__init__.py" timestamp="1563780460585">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="C:/dev/definiens/QCmonkey/test/test_overall_system.py" timestamp="1562662476857">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="10" />
@@ -211,13 +216,13 @@
         <text>func(3)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>allow python error to appear on the web page</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgUmVzb3VyY2UsIEFwaQoKYXBwID0gRmxhc2soX19uYW1lX18pCmFwaSA9IEFwaShhcHApCgoKIyBAYXBwLnJvdXRlKCcvJykKIyBkZWYgaGVsbG9fd29ybGQoKToKIyAgICAgcmV0dXJuICdIZWxsbyBXb3JsZCcKCgpAYXBpLnJvdXRlKCcvaGVsbG8nKQpjbGFzcyBIZWxsb1dvcmxkKFJlc291cmNlKToKICAgIGRlZiBnZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIHsnaGVsbG8nOiAnd29ybGQnfQo=</text>
+        <text encoding="base64">QGFwaS5yb3V0ZSgnL2hlbGxvJykKY2xhc3MgSGVsbG9Xb3JsZChSZXNvdXJjZSk6CiAgICBkZWYgZ2V0KHNlbGYpOgogICAgICAgIHJldHVybiB7J2hlbGxvJzogJ3dvcmxkIHh4eCd9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -247,7 +252,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -278,8 +283,8 @@
         <entry>%s/if/for/g</entry>
         <entry>W</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
