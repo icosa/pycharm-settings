@@ -4,4 +4,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="quotes" value="'$SELECTION$'" description="surround text with quotes" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
 </templateSet>
