@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586240349765">
+      <file name="/Dummy.txt" timestamp="1589189078013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/services_toolbox/import-script/importscript/__main__.py" timestamp="1570630217065">
@@ -115,11 +115,17 @@
       <file name="/Python Console" timestamp="1586167540134">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1586184558725">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="45" />
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="40" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/README.md" timestamp="1589189554819">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/docker-compose.yml" timestamp="1586203377432">
         <mark key="[" line="4" column="0" />
@@ -238,8 +244,8 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="4">
-        <text>pytest -v -n=auto --dist=loadscope --instafail --durations=10 portal_tests/tests/</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICYmIFw=</text>
@@ -248,34 +254,34 @@
         <text encoding="base64">XDxjb21wdXRlX2hzY29yZV9mb3JfY2VsbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>pytest -v -n=auto --dist=loadscope --instafail --durations=10 portal_tests/tests/</text>
+        <text>test_login_page_renders_form_correctly</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
+        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBSVU4gcGlwIGluc3RhbGwgLVUgc2V0dXB0b29scyAtVSB3aGVlTAoK</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDTUQgWydweXRob24nLCAnLW0nLCAncHl0ZXN0J10KCg==</text>
+        <text encoding="base64">IyBSVU4gcGlwIGluc3RhbGwgLVUgc2V0dXB0b29scyAtVSB3aGVlTAoK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IyBDTUQgWydweXRob24nLCAnLW0nLCAncHl0ZXN0J10KCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IGxvZ3ZvbHVtZTAxOiB7fQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dm9sdW1lczoKIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAtIC46L2NvZGUKICAgIC0gbG9ndm9sdW1lMDE6L3Zhci9sb2cKICAgIGxpbmtzOgogICAgLSByZWRpcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAtIC46L2NvZGUKICAgIC0gbG9ndm9sdW1lMDE6L3Zhci9sb2cKICAgIGxpbmtzOgogICAgLSByZWRpcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
