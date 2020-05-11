@@ -107,13 +107,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589190897948">
+      <file name="/Dummy.txt" timestamp="1589199814957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/services_toolbox/import-script/importscript/__main__.py" timestamp="1570630217065">
-        <mark key="'" line="80" column="13" />
-      </file>
-      <file name="/Python Console" timestamp="1589193123703">
+      <file name="/Python Console" timestamp="1589200083754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
@@ -134,7 +131,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1589193310468">
+      <file name="/fragment.py" timestamp="1589200397012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/.gitlab-ci.yml" timestamp="1586205095413">
@@ -144,9 +141,6 @@
       <file name="C:/dev/definiens/analytics/analytics-backend/README.md" timestamp="1571757474686">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="46" />
-      </file>
-      <file name="C:/dev/definiens/services_toolbox/ripper/tests/test_ripper.py" timestamp="1570004184068">
-        <mark key="'" line="77" column="4" />
       </file>
       <file name="C:/dev/definiens/services_toolbox/ripper/ripper/ripper.py" timestamp="1571063620388">
         <mark key="'" line="411" column="4" />
@@ -167,16 +161,12 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589200777829" />
       <file name="/App.h" timestamp="1577717732519">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="64" />
       </file>
-      <file name="C:/dev/definiens/services_toolbox/import-script/importscript/landmarks/landmark_import.py" timestamp="1570631109373">
-        <mark key="[" line="129" column="85" />
-        <mark key="]" line="129" column="84" />
-        <mark key="^" line="129" column="84" />
-        <mark key="." line="129" column="84" />
-      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589199546154" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589197289631">
         <mark key="'" line="94" column="13" />
         <mark key="[" line="94" column="75" />
@@ -186,6 +176,12 @@
       </file>
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/objects/TiledImage.h" timestamp="1578687284417">
         <mark key="[" line="47" column="13" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589200758547">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/slides/TiledImage.cpp" timestamp="1578756339578">
         <mark key="[" line="49" column="0" />
@@ -258,8 +254,8 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>test_table_renders_correctly_with_slides</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -268,7 +264,7 @@
         <text encoding="base64">XDxFeHBlY3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>test_login_page_renders_form_correctly</text>
+        <text>test_table_renders_correctly_with_slides</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
