@@ -107,26 +107,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589203950813">
+      <file name="/Python Console" timestamp="1589205665714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1589203561340" />
-      <file name="/fragment.py" timestamp="1589203882254">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1589204282310" />
+      <file name="/fragment.py" timestamp="1589205803286">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/TiledImage.h" timestamp="1578687273712">
-        <mark key="[" line="44" column="13" />
       </file>
       <file name="C:/dev/definiens/cp2/dss/.gitlab-ci.yml" timestamp="1579096197887">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/App.h" timestamp="1577717732519">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="64" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589199546154" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589204641257" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589197289631">
         <mark key="'" line="94" column="13" />
         <mark key="[" line="94" column="75" />
@@ -134,9 +127,7 @@
         <mark key="." line="94" column="75" />
         <mark key="^" line="94" column="76" />
       </file>
-      <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/objects/TiledImage.h" timestamp="1578687284417">
-        <mark key="[" line="47" column="13" />
-      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/wait.py" timestamp="1589204980291" />
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/slides/TiledImage.cpp" timestamp="1578756339578">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -146,6 +137,7 @@
       <file name="/Dummy.txt" timestamp="1589199814957">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/base_page.py" timestamp="1589204971435" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="45" />
@@ -168,24 +160,32 @@
         <mark key="[" line="57" column="6" />
         <mark key="]" line="57" column="86" />
       </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/support/wait.py" timestamp="1589204988960" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/setup.py" timestamp="1586204710034">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="28" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589203752372">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="35" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589204876578">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="14" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589203731123" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589203888675">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="15" column="24" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589205742402">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="73" />
+        <mark key="]" line="34" column="76" />
+        <mark key="^" line="34" column="76" />
+        <mark key="." line="34" column="75" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589204852745">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="8" />
+        <mark key="^" line="108" column="14" />
+        <mark key="." line="108" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -245,6 +245,9 @@
       <jump line="100" column="14" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
       <jump line="14" column="36" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
       <jump line="93" column="13" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
+      <jump line="32" column="42" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
+      <jump line="0" column="0" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
+      <jump line="14" column="41" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -252,11 +255,11 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIAo=</text>
+      <register name="*" type="4">
+        <text>react-container</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>react-container</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeHBlY3RcPg==</text>
@@ -265,31 +268,31 @@
         <text>test_table_renders_correctly_with_slides</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIAo=</text>
+        <text encoding="base64">ICAgICMgd2FpdCBmb3IgcGFnZSB0byBhcHBlYXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB3YWl0X3VudGlsKGF1dGhvcml6ZWRfcG9ydGFsLmRyaXZlciwgRXhwZWN0LnZpc2libGUoKEJ5LkNMQVNTX05BTUUsICdhZy1vdmVybGF5LXdyYXBwZXInKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNlbGYuZHJpdmVyLCBFeHBlY3QudmlzaWJsZSgpKQo=</text>
+        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
+        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNlbGYuZHJpdmVyLCBFeHBlY3QudmlzaWJsZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSVU4gcGlwIGluc3RhbGwgLVUgc2V0dXB0b29scyAtVSB3aGVlTAoK</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDTUQgWydweXRob24nLCAnLW0nLCAncHl0ZXN0J10KCg==</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGxvZ3ZvbHVtZTAxOiB7fQ==</text>
+        <text encoding="base64">IyBSVU4gcGlwIGluc3RhbGwgLVUgc2V0dXB0b29scyAtVSB3aGVlTAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
