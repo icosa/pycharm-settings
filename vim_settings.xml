@@ -107,17 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589205665714">
+      <file name="/Python Console" timestamp="1589206113338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1589204282310" />
       <file name="/fragment.py" timestamp="1589205803286">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/dss/.gitlab-ci.yml" timestamp="1579096197887">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589204641257" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589197289631">
@@ -128,13 +123,11 @@
         <mark key="^" line="94" column="76" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/wait.py" timestamp="1589204980291" />
-      <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/slides/TiledImage.cpp" timestamp="1578756339578">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/slides_page.py" timestamp="1589206482668">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589199814957">
+      <file name="/Dummy.txt" timestamp="1589206851189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/base_page.py" timestamp="1589204971435" />
@@ -173,12 +166,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589205742402">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589206760060">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="73" />
-        <mark key="]" line="34" column="76" />
-        <mark key="^" line="34" column="76" />
-        <mark key="." line="34" column="75" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="53" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="35" column="53" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589204852745">
         <mark key="'" line="14" column="41" />
@@ -256,43 +249,43 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>react-container</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>react-container</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeHBlY3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>test_table_renders_correctly_with_slides</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKEJ5LkNTUywgJy5hZy1jZW50ZXItY29scy1jb250YWluZXIgLmFnLXJvdy1maXJzdCcpIHx8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgd2FpdCBmb3IgcGFnZSB0byBhcHBlYXIK</text>
+        <text encoding="base64">ICAgICAgICAoQnkuQ1NTLCAnLmFnLWNlbnRlci1jb2xzLWNvbnRhaW5lciAuYWctcm93LWZpcnN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB3YWl0X3VudGlsKGF1dGhvcml6ZWRfcG9ydGFsLmRyaXZlciwgRXhwZWN0LnZpc2libGUoKEJ5LkNMQVNTX05BTUUsICdhZy1vdmVybGF5LXdyYXBwZXInKSkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgd2FpdCBmb3IgcGFnZSB0byBhcHBlYXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCB3YWl0X3VudGlsKGF1dGhvcml6ZWRfcG9ydGFsLmRyaXZlciwgRXhwZWN0LnZpc2libGUoKEJ5LkNMQVNTX05BTUUsICdhZy1vdmVybGF5LXdyYXBwZXInKSkpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNlbGYuZHJpdmVyLCBFeHBlY3QudmlzaWJsZSgpKQo=</text>
+        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
+        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNlbGYuZHJpdmVyLCBFeHBlY3QudmlzaWJsZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICQgcHl0ZXN0IHBvcnRhbF90ZXN0cy90ZXN0cy90ZXN0X2xvZ2luLnB5OjpUZXN0TG9naW46OnRlc3RfdXNlcl9sb2dnZWRfaW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSVU4gcGlwIGluc3RhbGwgLVUgc2V0dXB0b29scyAtVSB3aGVlTAoK</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1VIHNldHVwdG9vbHMgJiYgXAogICAgcGlwIGluc3RhbGwgLVUgd2hlZWwgJiYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
