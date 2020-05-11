@@ -106,11 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/sidus/sidus-be/requirements-check.txt" timestamp="1569921994523">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1586240349765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,12 +126,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="3" />
-      </file>
-      <file name="C:/dev/definiens/sidus/sidus-be/README.md" timestamp="1569922812894">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
-        <mark key="^" line="16" column="19" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/.gitlab-ci.yml" timestamp="1586205095413">
         <mark key="[" line="57" column="6" />
@@ -180,12 +169,6 @@
       </file>
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/objects/TiledImage.h" timestamp="1578687284417">
         <mark key="[" line="47" column="13" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/Dockerfile" timestamp="1586241836501">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="11" column="2" />
       </file>
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/slides/TiledImage.cpp" timestamp="1578756339578">
         <mark key="[" line="49" column="0" />
