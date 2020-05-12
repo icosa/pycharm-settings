@@ -116,25 +116,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589204641257" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589214269804">
-        <mark key="'" line="94" column="13" />
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="94" column="54" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589267233945">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="164" column="12" />
         <mark key="." line="94" column="53" />
         <mark key="^" line="94" column="54" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/assay_editor.py" timestamp="1589215344597">
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="50" />
-        <mark key="^" line="59" column="50" />
-        <mark key="." line="59" column="49" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/wait.py" timestamp="1589204980291" />
       <file name="/slides_page.py" timestamp="1589206482668">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589215353591">
+      <file name="/Dummy.txt" timestamp="1589264182391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/base_page.py" timestamp="1589204971435" />
@@ -155,24 +149,18 @@
         <mark key="]" line="57" column="86" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/support/wait.py" timestamp="1589204988960" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/setup.py" timestamp="1586204710034">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589204876578">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589262474740">
-        <mark key="'" line="37" column="89" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="46" column="60" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589267144486">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="61" column="8" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589215470375">
         <mark key="'" line="14" column="41" />
@@ -240,11 +228,13 @@
       <jump line="14" column="36" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
       <jump line="93" column="13" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
       <jump line="32" column="42" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
-      <jump line="0" column="0" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
       <jump line="14" column="41" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" />
       <jump line="38" column="81" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
-      <jump line="36" column="38" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
       <jump line="37" column="89" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
+      <jump line="36" column="8" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
+      <jump line="0" column="2" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" />
+      <jump line="97" column="21" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
+      <jump line="0" column="0" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -252,8 +242,172 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9hZF9wYWdlKHVybCwgY29uZGl0aW9uPUV4cGVjdC52aXNpYmxlKHNlbGYudGFibGUubG9jYXRvcikpCg==</text>
+      <register name="*" type="4">
+        <text>&quot;&quot;&quot;
+portal_test_utils.page_objects.common.table
+
+Implement wrapper for generic ag-Grid tables
+&quot;&quot;&quot;
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
+
+from portal_test_utils.page_objects.common.ag_grid.assay_editor import RowWrapperWithAssayEditor
+from portal_test_utils.page_objects.common.ag_grid.header import AgGridHeader
+from portal_test_utils.page_objects.common.ag_grid.row import AgGridRowWrapper
+from portal_test_utils.page_objects.common.ag_grid.side_bar import AgGridSideBar
+from portal_test_utils.utils import By, ElementWrapper
+from portal_test_utils.utils import Expect
+from portal_test_utils.utils.wait import wait_until
+
+class AgGridTable(ElementWrapper):
+    &quot;&quot;&quot;Ag Grid Table wrapper.&quot;&quot;&quot;
+    header = AgGridHeader(By.CLASS, 'ag-header')
+    body = ElementWrapper(By.CLASS, 'ag-body-viewport')
+    side_bar = AgGridSideBar(By.CLASS, 'ag-side-bar')
+    row_wrapper = AgGridRowWrapper
+
+    def __init__(self, by=By.CLASS, value='ag-root-wrapper', ignore_context=False, has_assay_editor=False):
+        super(AgGridTable, self).__init__(by, value, ignore_context)
+        if has_assay_editor:
+            self.row_wrapper = RowWrapperWithAssayEditor
+        self._rows = []
+
+    # Grid header functionalities
+    def list_rendered_columns(self):
+        &quot;&quot;&quot;Returns list of rendered columns.&quot;&quot;&quot;
+        return self.header.find_elements_by_css_selector('.ag-header-cell')
+
+    def sort_column(self, column, by_selector):
+        &quot;&quot;&quot;Sort column in header
+
+        :param column: column identifier
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.sort_column(column, by_selector)
+
+    def filter_column_by_text(self, column, value, condition='contains', by_selector='col_id'):
+        &quot;&quot;&quot;Filter a column by text value
+
+        :param column: column identifier
+        :param value: value to enter into input field
+        :param condition: value to select in the condition dropdown
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.set_value(value, condition)
+
+    def filter_column_by_date(self, column, value, condition='equals', by_selector='col_id'):
+        &quot;&quot;&quot;Filter a column by date
+
+        :param column: column identifier
+        :param value: date to enter into input field
+        :param condition: value to select in the condition dropdown
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.set_date(value, condition)
+
+    def filter_column_by_selected_values(self, column, value_list, by_selector='col_id'):
+        &quot;&quot;&quot;ilter a column by values in selection list
+
+        :param column: column identifier
+        :param value_list: list of values to select
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.select_values(value_list)
+
+    def reset_column_filter(self, column, by_selector='col_id'):
+        &quot;&quot;&quot;Reset the filter on a column
+
+        :param column: column identifier
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.reset_filter_button.click()
+
+    def navigate_to_the_column(self, column_id, last_col_id=None):
+        wait_until(self.driver, Expect.visible((By.CSS, '.ag-center-cols-container .ag-row-first')))
+        # wait_until(self.driver, Expect.visible((By.CLASS, 'ag-row-first')))
+        rendered_columns = [c.get_attribute('col-id') for c in self.list_rendered_columns()]
+        last_rendered_column_id = rendered_columns[-1]
+        if (column_id in rendered_columns) or (last_col_id == last_rendered_column_id):
+            # column visible, or all columns rendered and it was not found
+            return True
+
+        # navigate to the last column and check rendered columns once again
+        self.get_rows(True)[0].find_cell_by_col_id(last_rendered_column_id).send_keys(Keys.LEFT)
+        return self.navigate_to_the_column(column_id, last_rendered_column_id)
+
+    # Grid row functionalities
+    def get_rows(self, force=False):
+        if not self._rows or force:
+            rows = self.context.find_elements_by_css_selector('.ag-center-cols-container .ag-row')
+            self._rows = [self.row_wrapper(row, self.driver) for row in rows]
+        return self._rows
+
+    @staticmethod
+    def get_row_cells(row):
+        return row.find_elements_by_css_selector('.ag-cell')
+
+    def expand_row(self, index):
+        cell = self.get_rows()[index].find_cell_by_index(0)
+        ActionChains(self.driver).move_to_element(cell).double_click().perform()
+
+    def get_row_by_index(self, index):
+        try:
+            selector = f'.ag-center-cols-container .ag-row[row-index=&quot;{index}&quot;]'
+            return self.row_wrapper(self.body.find_element(By.CSS, selector), self.driver)
+        except NoSuchElementException:
+            return None
+
+    def get_row_by_value_in_column_name(self, column_name, value):
+        try:
+            column = self.header.find_column(column_name, 'column_name')
+            col_id = column.get_attribute('col-id')
+            return self.get_row_by_value_in_col_id(col_id, value)
+        except NoSuchElementException:
+            return None
+
+    def get_row_by_value_in_col_id(self, col_id, value):
+        try:
+            xpath = f'.//div[@col-id=&quot;{col_id}&quot; and normalize-space(.) = &quot;{value}&quot;]/..'
+            return self.row_wrapper(self.body.find_element(By.XPATH, xpath), self.driver)
+        except NoSuchElementException:
+            return None
+
+    def get_cell_value_by_column_id(self, row, column_id):
+        self.navigate_to_the_column(column_id)
+        return row.get_cell_value_by_col_id(column_id)
+
+    # Side bar functionalities
+    def set_visible_columns(self, column_list):
+        with self.side_bar() as side_bar:
+            side_bar.columns_panel.enable_columns(column_list)
+
+    def list_visible_columns(self):
+        with self.side_bar() as side_bar:
+            columns = side_bar.columns_panel.get_all_enabled_columns()
+            column_names = [column.text for column in columns]
+            return column_names
+
+    def select_all_columns(self):
+        with self.side_bar() as side_bar:
+            side_bar.columns_panel.select_all()
+
+    def unselect_all_columns(self):
+        with self.side_bar() as side_bar:
+            s</text>
       </register>
       <register name="-" type="4">
         <text>_SELECTOR</text>
@@ -261,8 +415,172 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb250YWluZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9yb3cgPSB0YWJsZS5nZXRfcm93X2J5X2luZGV4KDApCg==</text>
+      <register name="0" type="4">
+        <text>&quot;&quot;&quot;
+portal_test_utils.page_objects.common.table
+
+Implement wrapper for generic ag-Grid tables
+&quot;&quot;&quot;
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
+
+from portal_test_utils.page_objects.common.ag_grid.assay_editor import RowWrapperWithAssayEditor
+from portal_test_utils.page_objects.common.ag_grid.header import AgGridHeader
+from portal_test_utils.page_objects.common.ag_grid.row import AgGridRowWrapper
+from portal_test_utils.page_objects.common.ag_grid.side_bar import AgGridSideBar
+from portal_test_utils.utils import By, ElementWrapper
+from portal_test_utils.utils import Expect
+from portal_test_utils.utils.wait import wait_until
+
+class AgGridTable(ElementWrapper):
+    &quot;&quot;&quot;Ag Grid Table wrapper.&quot;&quot;&quot;
+    header = AgGridHeader(By.CLASS, 'ag-header')
+    body = ElementWrapper(By.CLASS, 'ag-body-viewport')
+    side_bar = AgGridSideBar(By.CLASS, 'ag-side-bar')
+    row_wrapper = AgGridRowWrapper
+
+    def __init__(self, by=By.CLASS, value='ag-root-wrapper', ignore_context=False, has_assay_editor=False):
+        super(AgGridTable, self).__init__(by, value, ignore_context)
+        if has_assay_editor:
+            self.row_wrapper = RowWrapperWithAssayEditor
+        self._rows = []
+
+    # Grid header functionalities
+    def list_rendered_columns(self):
+        &quot;&quot;&quot;Returns list of rendered columns.&quot;&quot;&quot;
+        return self.header.find_elements_by_css_selector('.ag-header-cell')
+
+    def sort_column(self, column, by_selector):
+        &quot;&quot;&quot;Sort column in header
+
+        :param column: column identifier
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.sort_column(column, by_selector)
+
+    def filter_column_by_text(self, column, value, condition='contains', by_selector='col_id'):
+        &quot;&quot;&quot;Filter a column by text value
+
+        :param column: column identifier
+        :param value: value to enter into input field
+        :param condition: value to select in the condition dropdown
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.set_value(value, condition)
+
+    def filter_column_by_date(self, column, value, condition='equals', by_selector='col_id'):
+        &quot;&quot;&quot;Filter a column by date
+
+        :param column: column identifier
+        :param value: date to enter into input field
+        :param condition: value to select in the condition dropdown
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.set_date(value, condition)
+
+    def filter_column_by_selected_values(self, column, value_list, by_selector='col_id'):
+        &quot;&quot;&quot;ilter a column by values in selection list
+
+        :param column: column identifier
+        :param value_list: list of values to select
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.select_values(value_list)
+
+    def reset_column_filter(self, column, by_selector='col_id'):
+        &quot;&quot;&quot;Reset the filter on a column
+
+        :param column: column identifier
+        :param by_selector: 'column_name' or 'col_id'
+        &quot;&quot;&quot;
+        with self.header() as header:
+            header.open_column_menu(column, by_selector)
+            header.menu.open_filters_menu()
+            header.menu.tab_body.reset_filter_button.click()
+
+    def navigate_to_the_column(self, column_id, last_col_id=None):
+        wait_until(self.driver, Expect.visible((By.CSS, '.ag-center-cols-container .ag-row-first')))
+        # wait_until(self.driver, Expect.visible((By.CLASS, 'ag-row-first')))
+        rendered_columns = [c.get_attribute('col-id') for c in self.list_rendered_columns()]
+        last_rendered_column_id = rendered_columns[-1]
+        if (column_id in rendered_columns) or (last_col_id == last_rendered_column_id):
+            # column visible, or all columns rendered and it was not found
+            return True
+
+        # navigate to the last column and check rendered columns once again
+        self.get_rows(True)[0].find_cell_by_col_id(last_rendered_column_id).send_keys(Keys.LEFT)
+        return self.navigate_to_the_column(column_id, last_rendered_column_id)
+
+    # Grid row functionalities
+    def get_rows(self, force=False):
+        if not self._rows or force:
+            rows = self.context.find_elements_by_css_selector('.ag-center-cols-container .ag-row')
+            self._rows = [self.row_wrapper(row, self.driver) for row in rows]
+        return self._rows
+
+    @staticmethod
+    def get_row_cells(row):
+        return row.find_elements_by_css_selector('.ag-cell')
+
+    def expand_row(self, index):
+        cell = self.get_rows()[index].find_cell_by_index(0)
+        ActionChains(self.driver).move_to_element(cell).double_click().perform()
+
+    def get_row_by_index(self, index):
+        try:
+            selector = f'.ag-center-cols-container .ag-row[row-index=&quot;{index}&quot;]'
+            return self.row_wrapper(self.body.find_element(By.CSS, selector), self.driver)
+        except NoSuchElementException:
+            return None
+
+    def get_row_by_value_in_column_name(self, column_name, value):
+        try:
+            column = self.header.find_column(column_name, 'column_name')
+            col_id = column.get_attribute('col-id')
+            return self.get_row_by_value_in_col_id(col_id, value)
+        except NoSuchElementException:
+            return None
+
+    def get_row_by_value_in_col_id(self, col_id, value):
+        try:
+            xpath = f'.//div[@col-id=&quot;{col_id}&quot; and normalize-space(.) = &quot;{value}&quot;]/..'
+            return self.row_wrapper(self.body.find_element(By.XPATH, xpath), self.driver)
+        except NoSuchElementException:
+            return None
+
+    def get_cell_value_by_column_id(self, row, column_id):
+        self.navigate_to_the_column(column_id)
+        return row.get_cell_value_by_col_id(column_id)
+
+    # Side bar functionalities
+    def set_visible_columns(self, column_list):
+        with self.side_bar() as side_bar:
+            side_bar.columns_panel.enable_columns(column_list)
+
+    def list_visible_columns(self):
+        with self.side_bar() as side_bar:
+            columns = side_bar.columns_panel.get_all_enabled_columns()
+            column_names = [column.text for column in columns]
+            return column_names
+
+    def select_all_columns(self):
+        with self.side_bar() as side_bar:
+            side_bar.columns_panel.select_all()
+
+    def unselect_all_columns(self):
+        with self.side_bar() as side_bar:
+            s</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYubG9hZF9wYWdlKHVybCwgY29uZGl0aW9uPUV4cGVjdC52aXNpYmxlKHNlbGYudGFibGUubG9jYXRvcikpCg==</text>
