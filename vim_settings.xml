@@ -111,7 +111,7 @@
       <file name="/Dummy.txt" timestamp="1589308163848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589310523719">
+      <file name="/Python Console" timestamp="1589311075183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
@@ -133,9 +133,9 @@
         <mark key="[" line="57" column="6" />
         <mark key="]" line="57" column="86" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589310256882">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589311155306">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="115" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="51" column="46" />
       </file>
@@ -146,10 +146,10 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589267233945">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589311212853">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="164" column="12" />
+        <mark key="[" line="106" column="63" />
+        <mark key="]" line="106" column="95" />
         <mark key="." line="94" column="53" />
         <mark key="^" line="94" column="54" />
       </file>
@@ -237,8 +237,8 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CiAgICAjIHdhaXRfdW50aWwoc2xpZGVzX3BhZ2UuZHJpdmVyLCBFeHBlY3QuaW52aXNpYmxlKChCeS5DU1MsICcuYWctcm93LWZpcnN0LCAuYWctb3ZlcmxheS1uby1yb3dzLXdyYXBwZXInKSkpCg==</text>
+      <register name="*" type="4">
+        <text>.ag-center-cols-container .ag-row</text>
       </register>
       <register name="-" type="4">
         <text>just the table (not good enough as extra rows in table</text>
@@ -247,7 +247,7 @@
         <text encoding="base64">XDxjb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>#slide-list-grid .ag-center-cols-viewport</text>
+        <text>.ag-center-cols-container .ag-row</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIHdhaXRfdW50aWwoc2xpZGVzX3BhZ2UuZHJpdmVyLCBFeHBlY3QuaW52aXNpYmxlKChCeS5DU1MsICcuYWctcm93LWZpcnN0LCAuYWctb3ZlcmxheS1uby1yb3dzLXdyYXBwZXInKSkpCg==</text>
