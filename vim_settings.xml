@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>sw</entry>
         <entry>%s/folder/dir/</entry>
         <entry>%s/source/left/g</entry>
         <entry>%s/target/right/g</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>s</entry>
+        <entry>30</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -110,10 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589366620002">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1589375640578">
+      <file name="/Python Console" timestamp="1589382380350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/test-utils/portal_test_utils/page_objects/common/ag_grid/table.py" timestamp="1589314953432">
@@ -121,37 +118,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="161" column="49" />
       </file>
-      <file name="/fragment.py" timestamp="1589314222213">
+      <file name="/fragment.py" timestamp="1589380595266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1589348795450">
         <mark key="[" line="29" column="18" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" timestamp="1589376212932">
-        <mark key="'" line="49" column="28" />
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="8" />
-        <mark key="." line="72" column="8" />
-        <mark key="^" line="20" column="25" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" timestamp="1589381757904">
+        <mark key="'" line="44" column="92" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="/conftest.py" timestamp="1589349135734">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="51" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589364527733">
-        <mark key="[" line="49" column="66" />
-        <mark key="]" line="49" column="96" />
-        <mark key="." line="47" column="65" />
-        <mark key="^" line="47" column="66" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589267144486">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="61" column="8" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/nav_bar_section.py" timestamp="1589364970291" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589356624520">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="21" />
@@ -169,20 +152,37 @@
         <mark key="[" line="289" column="0" />
         <mark key="]" line="300" column="24" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589375873452">
-        <mark key="'" line="109" column="51" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="51" />
-        <mark key="^" line="145" column="97" />
-        <mark key="." line="145" column="96" />
-      </file>
       <file name="/slides_page.py" timestamp="1589206482668">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="73" />
       </file>
-      <file name="/test_metadata_table.py" timestamp="1589366441906">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="28" />
+      <file name="/test_metadata_table.py" timestamp="1589382036847">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="53" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589382687206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1589364527733">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="96" />
+        <mark key="." line="47" column="65" />
+        <mark key="^" line="47" column="66" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589267144486">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="61" column="8" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/nav_bar_section.py" timestamp="1589364970291" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589382673924">
+        <mark key="'" line="109" column="51" />
+        <mark key="[" line="105" column="48" />
+        <mark key="]" line="108" column="8" />
+        <mark key="^" line="108" column="8" />
+        <mark key="." line="108" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -272,6 +272,8 @@
       <jump line="16" column="8" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
       <jump line="25" column="28" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
       <jump line="49" column="28" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
+      <jump line="98" column="49" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
+      <jump line="44" column="92" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,44 +281,44 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="4">
-        <text>x</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>undo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBwb3J0YWxfdGVzdF91dGlscy51dGlscy53YWl0IGltcG9ydCB3YWl0X3VudGlsCg==</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IuZWRpdF9hc3NheV9yb3dfdmFsdWVzKGZpcnN0X3JvdywgZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdhaXQgZm9yIGl0IHRvIGFwcGVhcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEpha3ViJ3MgY29kZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnByb2plY3RfbmFtZSA9ICcnCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFibGU6IAogICAgICAgIDpwYXJhbSByb3c6IAogICAgICAgIDpwYXJhbSBjb2x1bW5faWQ6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1lc3NhZ2UgPSAnRHJvcCBzbGlkZXMgb24gdGhpcyBwYW5lbCB0byB1cGxvYWQgdGhlbSB0byBwcm9qZWN0IFByb2plY3QgbmFtZTEnCiAgICAgICAgIyBhc3NlcnRFcXVhbHModXBsb2FkX3BhbmVsLnRpdGxlLnRleHQsIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiB3YWl0X25vX2RhdGEoc2xpZGVzX3BhZ2UpOgogICAgICAgICIiIgogICAgICAgIFRPRE8gbW92ZSB0aGlzIG1ldGhvZCB0byB0aGUgc2xpZGVzIHBhZ2Ugb2JqZWN0IC0gZGlzY3VzcyBKYWt1Yi9LaG9hCiAgICAgICAgIiIiCiAgICAgICAgd2FpdF91bnRpbChzbGlkZXNfcGFnZS5kcml2ZXIsCiAgICAgICAgICAgICAgICAgICBFeHBlY3QudmlzaWJsZSgoQnkuQ1NTX1NFTEVDVE9SLCAnI3NsaWRlLWxpc3QtZ3JpZCAuYWctb3ZlcmxheS13cmFwcGVyICNvcGVuLXBhbmVsJykpKQoK</text>
+        <text encoding="base64">ICAgICAgICAjIHdhaXQgZm9yIGl0IHRvIGFwcGVhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRlc3RNZXRhZGF0YVRhYmxlLndhaXRfbm9fZGF0YShhdXRob3JpemVkX3BvcnRhbC5zbGlkZXNfcGFnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
