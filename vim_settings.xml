@@ -111,7 +111,7 @@
       <file name="/Dummy.txt" timestamp="1589352341914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589353226960">
+      <file name="/Python Console" timestamp="1589356017080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
@@ -161,12 +161,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="111" column="27" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589353362837">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589355989046">
         <mark key="'" line="14" column="41" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="8" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="49" column="8" />
+        <mark key="[" line="63" column="70" />
+        <mark key="]" line="63" column="70" />
+        <mark key="^" line="52" column="51" />
+        <mark key="." line="63" column="79" />
       </file>
       <file name="/slides_page.py" timestamp="1589206482668">
         <mark key="[" line="34" column="0" />
@@ -253,43 +253,43 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9yb3cuc2V0X2NvbHVtbl92YWx1ZShjb2x1bW5faWQsIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNsaWRlc19wYWdlX3dpdGhfbWV0YWRhdGEuZHJpdmVyLCBFeHBlY3QuY2xpY2thYmxlKChCeS5JRCwgJ3NsaWRlLWxpc3QtdW5kby1tZXRhZGF0YS1jaGFuZ2UnKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHNsaWRlc19wYWdlOiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBhZGQgdGhpcyBtZXRob2QgdG8gdGhlIHNsaWRlcyBwYWdlIG9iamVjdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHNsaWRlc19wYWdlOiAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyBhZGQgdGhpcyBtZXRob2QgdG8gdGhlIHNsaWRlcyBwYWdlIG9iamVjdAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyB3YWl0X3VudGlsKHNsaWRlc19wYWdlLmRyaXZlciwgRXhwZWN0LmludmlzaWJsZSgoQnkuQ1NTX1NFTEVDVE9SLCAnLmFnLWNlbGwtaW5saW5lLWVkaXRpbmcnKSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
