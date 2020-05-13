@@ -115,12 +115,6 @@
       <file name="/Python Console" timestamp="1589357564159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/login_page/test_login.py" timestamp="1589189488562">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="45" />
-        <mark key="^" line="17" column="40" />
-        <mark key="." line="17" column="40" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/README.md" timestamp="1589189554819">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -168,12 +162,16 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="111" column="27" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589358035622">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" timestamp="1589360476734">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="300" column="24" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589361379262">
         <mark key="'" line="55" column="20" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="8" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="45" column="8" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="48" column="93" />
+        <mark key="." line="29" column="8" />
       </file>
       <file name="/slides_page.py" timestamp="1589206482668">
         <mark key="[" line="34" column="0" />
@@ -271,34 +269,34 @@
         <text encoding="base64">XDxzZXRfY29sdW1uX3ZhbHVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHNsaWRlc19wYWdlX3dpdGhfbWV0YWRhdGEuZHJpdmVyLCBFeHBlY3QuY2xpY2thYmxlKChCeS5JRCwgJ3NsaWRlLWxpc3QtdW5kby1tZXRhZGF0YS1jaGFuZ2UnKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB3YWl0X3VudGlsKHRhYmxlLmRyaXZlciwgVGVzdE1ldGFkYXRhVGFibGUuaGFzX2NlbGxfdmFsdWUodGFibGUsIGZpcnN0X3JvdywgJ2Fzc2F5cycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIEBzdGF0aWNtZXRob2QKICAgICMgZGVmIHdhaXRfdmFsdWVfcHJlc2VudF9pbl9jZWxsKHRhYmxlLCByb3csIGNvbHVtbl9pZCk6CiAgICAjICAgICB3YWl0X3VudGlsKHRhYmxlLmRyaXZlciwgRXhwZWN0LnRleHRfcHJlc2VudCgpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHdhaXRfdW50aWwoc2xpZGVzX3BhZ2Vfd2l0aF9tZXRhZGF0YS5kcml2ZXIsIEV4cGVjdC5jbGlja2FibGUoKEJ5LklELCAnc2xpZGUtbGlzdC11bmRvLW1ldGFkYXRhLWNoYW5nZScpKSkKICAgICAgICAjIFRlc3RNZXRhZGF0YVRhYmxlLndhaXRfdmFsdWVfcHJlc2VudF9pbl9jZWxsKHRhYmxlLCBmaXJzdF9yb3csICdhc3NheXMnKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgZWxlbWVudF90b19iZV9jbGlja2FibGUob2JqZWN0KToKICAgICIiIiBBbiBFeHBlY3RhdGlvbiBmb3IgY2hlY2tpbmcgYW4gZWxlbWVudCBpcyB2aXNpYmxlIGFuZCBlbmFibGVkIHN1Y2ggdGhhdAogICAgeW91IGNhbiBjbGljayBpdC4iIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2NhdG9yKToKICAgICAgICBzZWxmLmxvY2F0b3IgPSBsb2NhdG9yCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGRyaXZlcik6CiAgICAgICAgZWxlbWVudCA9IHZpc2liaWxpdHlfb2ZfZWxlbWVudF9sb2NhdGVkKHNlbGYubG9jYXRvcikoZHJpdmVyKQogICAgICAgIGlmIGVsZW1lbnQgYW5kIGVsZW1lbnQuaXNfZW5hYmxlZCgpOgogICAgICAgICAgICByZXR1cm4gZWxlbWVudAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUT0RPIG1vdmUgdGhpcyBtZXRob2QgdG8gdGhlIHNsaWRlcyBwYWdlIG9iamVjdCAtIGRpc2N1c3MgSmFrdWIvS2hvYQogICAgICAgICIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoYXNfdmFsdWUgPSBsYW1iZGE6IGJvb2wodGFibGUuZ2V0X2NlbGxfdmFsdWVfYnlfY29sdW1uX2lkKHJvdywgY29sdW1uX2lkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHNsaWRlc19wYWdlOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBhZGQgdGhpcyBtZXRob2QgdG8gdGhlIHNsaWRlcyBwYWdlIG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF92YWx1ZSA9IHRhYmxlLmdldF9jZWxsX3ZhbHVlX2J5X2NvbHVtbl9pZChyb3csIGNvbHVtbl9pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
