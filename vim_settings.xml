@@ -167,7 +167,7 @@
       <file name="/Dummy.txt" timestamp="1589451832009">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589480609176">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589526316607">
         <mark key="[" line="21" column="50" />
         <mark key="]" line="21" column="85" />
       </file>
@@ -179,11 +179,11 @@
         <mark key="." line="0" column="2" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/nav_bar_section.py" timestamp="1589364970291" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589451721060">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589526608489">
         <mark key="[" line="147" column="8" />
-        <mark key="]" line="147" column="11" />
-        <mark key="^" line="147" column="11" />
-        <mark key="." line="147" column="10" />
+        <mark key="]" line="117" column="43" />
+        <mark key="^" line="117" column="43" />
+        <mark key="." line="117" column="42" />
       </file>
       <file name="/test_upload_slides.py" timestamp="1589445263362">
         <mark key="[" line="33" column="0" />
