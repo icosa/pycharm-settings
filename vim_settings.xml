@@ -113,6 +113,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589451832009">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1589524163227">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,6 +126,15 @@
       </file>
       <file name="/fragment.py" timestamp="1589450335566">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_wait_predicates.py" timestamp="1589529356210">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="51" />
+      </file>
+      <file name="/a.dummy" timestamp="1589529101642">
+        <mark key="[" line="0" column="15" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1589348795450">
         <mark key="[" line="29" column="18" />
@@ -137,6 +149,10 @@
       <file name="/conftest.py" timestamp="1589349135734">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="51" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589526316607">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="85" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589356624520">
         <mark key="[" line="15" column="17" />
@@ -155,39 +171,25 @@
         <mark key="[" line="289" column="0" />
         <mark key="]" line="300" column="24" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/assay_editor.py" timestamp="1589443628577" />
-      <file name="/slides_page.py" timestamp="1589206482668">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="73" />
-      </file>
-      <file name="/test_metadata_table.py" timestamp="1589449973083">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="102" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589451832009">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_waiters.py" timestamp="1589529084314">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589526316607">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="85" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/pages/slides_page/slides_page.py" timestamp="1589267144486">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="61" column="8" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/nav_bar_section.py" timestamp="1589364970291" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589526608489">
-        <mark key="[" line="147" column="8" />
-        <mark key="]" line="117" column="43" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589529073469">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="43" />
         <mark key="^" line="117" column="43" />
-        <mark key="." line="117" column="42" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/test_upload_slides.py" timestamp="1589445263362">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="109" />
+      </file>
+      <file name="/test_metadata_table.py" timestamp="1589449973083">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="102" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/row.py" timestamp="1589451216939">
         <mark key="[" line="37" column="0" />
@@ -290,44 +292,44 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="4">
-        <text>Please enter a name for the project.</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICAgICAgIiIiCiAgICBUT0RPIHNob3VsZCB0aGlzIGJlIG1vdmVkIHRvIHV0aWxzIEtob2EvSmFrdWI/CiAgICAiIiIKICAgICMgcmV0dXJuIGFuIGFkYXB0ZWQgZnVuY3Rpb24gZm9yIHVzaW5nIHdpdGggd2FpdF91bnRpbAogICAgZGVmIF9lbGVtZW50X2hhc192YWx1ZShkcml2ZXIpOgogICAgICAgIGVsZW1lbnQgPSBkcml2ZXIuZmluZF9lbGVtZW50KEJ5LkNTU19TRUxFQ1RPUiwgY3NzKQogICAgICAgIHJldHVybiBib29sKGVsZW1lbnQpIGFuZCBib29sKGVsZW1lbnQudGV4dCkKCiAgICByZXR1cm4gX2VsZW1lbnRfaGFzX3ZhbHVlCgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Please enter a name for the project.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGVsZW1lbnRfbWF0Y2hlc19jcml0ZXJpYShjc3MsIHByZWRpY2F0ZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB4dGVzdF9lZGl0aW5nX2Fzc2F5X21hcmtlcnMoc2VsZiwgbWV0YWRhdGFfdGFibGUpOgogICAgICAgIGZpcnN0X3JvdyA9IG1ldGFkYXRhX3RhYmxlLmdldF9yb3dfYnlfaW5kZXgoMCkKICAgICAgICBjb2x1bW5faWQgPSAnYXNzYXlzJwogICAgICAgIG9yaWdpbmFsX3ZhbHVlID0gbWV0YWRhdGFfdGFibGUuZ2V0X2NlbGxfdmFsdWVfYnlfY29sdW1uX2lkKGZpcnN0X3JvdywgY29sdW1uX2lkKQogICAgICAgIGFzc2VydE5vdEVxdWFscyhvcmlnaW5hbF92YWx1ZSwgJ0FTTycpCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgJ21hcmtlcic6ICdBU08nLCAnY2hhbm5lbCc6IDEsICdjaHJvbW9nZW5GbHVvcm9waG9yZXMnOiAnY2hyb21vZ2VuJywKICAgICAgICAgICAgJ3ByaW1hcnlBbnRpYm9keSc6ICdwcmltYXJ5JywgJ3NlY29uZGFyeUFudGlib2R5JzogJ3NlY29uZGFyeScsCiAgICAgICAgfQogICAgICAgIGZpcnN0X3Jvdy5lZGl0X2Fzc2F5X21hcmtlcl9yb3dfYnlfaW5kZXgoMCwgZGF0YSkKICAgICAgICBhc3NlcnRFcXVhbHMoZmlyc3Rfcm93LmdldF9jZWxsX3ZhbHVlX2J5X2NvbF9pZChjb2x1bW5faWQpLCAnQVNPJykKCiAgICAgICAgIyBvcGVuaW5nIHRoZSBlZGl0b3Igb25jZSBhZ2FpbiB0byBjaGVjayB0aGF0IHZhbHVlcyBhcmUgc2V0CiAgICAgICAgY2VsbCA9IGZpcnN0X3Jvdy5maW5kX2NlbGxfYnlfY29sX2lkKGNvbHVtbl9pZCkKICAgICAgICBBY3Rpb25DaGFpbnMobWV0YWRhdGFfdGFibGUuZHJpdmVyKS5kb3VibGVfY2xpY2soY2VsbC5lbGVtZW50KS5wZXJmb3JtKCkKICAgICAgICB3YWl0X3VudGlsKG1ldGFkYXRhX3RhYmxlLmRyaXZlciwgRXhwZWN0LmNsaWNrYWJsZShmaXJzdF9yb3cuYXNzYXlfZWRpdG9yLnNhdmVfYnV0dG9uLmxvY2F0b3IpKQogICAgICAgIHJvd190ZXh0ID0gZmlyc3Rfcm93LmFzc2F5X2VkaXRvci5nZXRfcm93cygpWzBdLnRleHQKICAgICAgICBhc3NlcnRJbignQVNPJywgcm93X3RleHQpCiAgICAgICAgYXNzZXJ0SW4oJzEnLCByb3dfdGV4dCkKICAgICAgICBhc3NlcnRJbignY2hyb21vZ2VuJywgcm93X3RleHQpCiAgICAgICAgYXNzZXJ0SW4oJ3ByaW1hcnknLCByb3dfdGV4dCkKICAgICAgICBhc3NlcnRJbignc2Vjb25kYXJ5Jywgcm93X3RleHQpCiAgICAgICAgZmlyc3Rfcm93LmFzc2F5X2VkaXRvci5zYXZlX2J1dHRvbi5jbGljaygpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgIiIiCiAgICBUT0RPIHNob3VsZCB0aGlzIGJlIG1vdmVkIHRvIHV0aWxzIEtob2EvSmFrdWI/CiAgICAiIiIKICAgICMgcmV0dXJuIGFuIGFkYXB0ZWQgZnVuY3Rpb24gZm9yIHVzaW5nIHdpdGggd2FpdF91bnRpbAogICAgZGVmIF9lbGVtZW50X2hhc192YWx1ZShkcml2ZXIpOgogICAgICAgIGVsZW1lbnQgPSBkcml2ZXIuZmluZF9lbGVtZW50KEJ5LkNTU19TRUxFQ1RPUiwgY3NzKQogICAgICAgIHJldHVybiBib29sKGVsZW1lbnQpIGFuZCBib29sKGVsZW1lbnQudGV4dCkKCiAgICByZXR1cm4gX2VsZW1lbnRfaGFzX3ZhbHVlCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyByb3dfdGV4dCA9IGVkaXRvci5nZXRfcm93cygpWzBdLnRleHQKICAgICAgICAjIGFzc2VydEluKCdBU08nLCByb3dfdGV4dCkKICAgICAgICAjIGFzc2VydEluKCcxJywgcm93X3RleHQpCiAgICAgICAgIyBhc3NlcnRJbignY2hyb21vZ2VuJywgcm93X3RleHQpCiAgICAgICAgIyBhc3NlcnRJbigncHJpbWFyeScsIHJvd190ZXh0KQogICAgICAgICMgYXNzZXJ0SW4oJ3NlY29uZGFyeScsIHJvd190ZXh0KQogICAgICAgICMgZWRpdG9yLnNhdmVfYnV0dG9uLmNsaWNrKCkKICAgICAgICAjIHdhaXRfdW50aWwodGFibGUuZHJpdmVyLCBUZXN0TWV0YWRhdGFUYWJsZS5jZWxsX2hhc192YWx1ZSh0YWJsZSwgZmlyc3Rfcm93LCBjb2x1bW5faWQsICdBU08nKSkKICAgICAgICAjIGFzc2VydEVxdWFscyhmaXJzdF9yb3cuZ2V0X2NlbGxfdmFsdWVfYnlfY29sX2lkKGNvbHVtbl9pZCksICdBU08nKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gdGFibGUuZ2V0X2NlbGxfdmFsdWVfYnlfY29sdW1uX2lkKHJvdywgY29sdW1uX2lkKQogICAgICAgIHJldHVybiB2YWx1ZSA9PSB0ZXh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdhaXRfdW50aWwobWV0YWRhdGFfdGFibGUuZHJpdmVyLCBFeHBlY3QuY2xpY2thYmxlKGZpcnN0X3Jvdy5hc3NheV9lZGl0b3Iuc2F2ZV9idXR0b24ubG9jYXRvcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydEVxdWFscyhmaXJzdF9yb3cuZ2V0X2NlbGxfdmFsdWVfYnlfY29sX2lkKGNvbHVtbl9pZCksICdBU08nKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNlbGwgPSBmaXJzdF9yb3cuZmluZF9jZWxsX2J5X2NvbF9pZChjb2x1bW5faWQpCiAgICAgICAgIyBBY3Rpb25DaGFpbnMoc2xpZGVzX3BhZ2Vfd2l0aF9tZXRhZGF0YS5kcml2ZXIpLmRvdWJsZV9jbGljayhjZWxsLmVsZW1lbnQpLnBlcmZvcm0oKQogICAgICAgICMgZWRpdG9yID0gZmlyc3Rfcm93LmFzc2F5X2VkaXRvcgo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBlbGVtZW50X2hhc192YWx1ZShjc3MpOgogICAgICAgICIiIgogICAgICAgIFRPRE8gc2hvdWxkIHRoaXMgYmUgbW92ZWQgdG8gdXRpbHMgS2hvYS9KYWt1Yj8KICAgICAgICAiIiIKICAgICAgICAjIHJldHVybiBhbiBhZGFwdGVkIGZ1bmN0aW9uIGZvciB1c2luZyB3aXRoIHdhaXRfdW50aWwKICAgICAgICBkZWYgX2VsZW1lbnRfaGFzX3ZhbHVlKGRyaXZlcik6CiAgICAgICAgICAgIGVsZW1lbnQgPSBkcml2ZXIuZmluZF9lbGVtZW50KEJ5LkNTU19TRUxFQ1RPUiwgY3NzKQogICAgICAgICAgICByZXR1cm4gYm9vbChlbGVtZW50KSBhbmQgYm9vbChlbGVtZW50LnRleHQpCgogICAgICAgIHJldHVybiBfZWxlbWVudF9oYXNfdmFsdWUKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgVE9ETyBzaG91bGQgdGhpcyBiZSBtb3ZlZCB0byB1dGlscyBLaG9hL0pha3ViPwogICAgIiIiCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dCA9IHRhYmxlLmdldF9jZWxsX3ZhbHVlX2J5X2NvbHVtbl9pZChyb3csIGNvbHVtbl9pZCkKICAgICAgICAgICAgcmV0dXJuIHZhbHVlID09IHRleHQK</text>
+        <text encoding="base64">ICAgIGRlZiB4dGVzdF9lZGl0aW5nX2Fzc2F5X21hcmtlcnMoc2VsZiwgbWV0YWRhdGFfdGFibGUpOgogICAgICAgIGZpcnN0X3JvdyA9IG1ldGFkYXRhX3RhYmxlLmdldF9yb3dfYnlfaW5kZXgoMCkKICAgICAgICBjb2x1bW5faWQgPSAnYXNzYXlzJwogICAgICAgIG9yaWdpbmFsX3ZhbHVlID0gbWV0YWRhdGFfdGFibGUuZ2V0X2NlbGxfdmFsdWVfYnlfY29sdW1uX2lkKGZpcnN0X3JvdywgY29sdW1uX2lkKQogICAgICAgIGFzc2VydE5vdEVxdWFscyhvcmlnaW5hbF92YWx1ZSwgJ0FTTycpCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgJ21hcmtlcic6ICdBU08nLCAnY2hhbm5lbCc6IDEsICdjaHJvbW9nZW5GbHVvcm9waG9yZXMnOiAnY2hyb21vZ2VuJywKICAgICAgICAgICAgJ3ByaW1hcnlBbnRpYm9keSc6ICdwcmltYXJ5JywgJ3NlY29uZGFyeUFudGlib2R5JzogJ3NlY29uZGFyeScsCiAgICAgICAgfQogICAgICAgIGZpcnN0X3Jvdy5lZGl0X2Fzc2F5X21hcmtlcl9yb3dfYnlfaW5kZXgoMCwgZGF0YSkKICAgICAgICBhc3NlcnRFcXVhbHMoZmlyc3Rfcm93LmdldF9jZWxsX3ZhbHVlX2J5X2NvbF9pZChjb2x1bW5faWQpLCAnQVNPJykKCiAgICAgICAgIyBvcGVuaW5nIHRoZSBlZGl0b3Igb25jZSBhZ2FpbiB0byBjaGVjayB0aGF0IHZhbHVlcyBhcmUgc2V0CiAgICAgICAgY2VsbCA9IGZpcnN0X3Jvdy5maW5kX2NlbGxfYnlfY29sX2lkKGNvbHVtbl9pZCkKICAgICAgICBBY3Rpb25DaGFpbnMobWV0YWRhdGFfdGFibGUuZHJpdmVyKS5kb3VibGVfY2xpY2soY2VsbC5lbGVtZW50KS5wZXJmb3JtKCkKICAgICAgICB3YWl0X3VudGlsKG1ldGFkYXRhX3RhYmxlLmRyaXZlciwgRXhwZWN0LmNsaWNrYWJsZShmaXJzdF9yb3cuYXNzYXlfZWRpdG9yLnNhdmVfYnV0dG9uLmxvY2F0b3IpKQogICAgICAgIHJvd190ZXh0ID0gZmlyc3Rfcm93LmFzc2F5X2VkaXRvci5nZXRfcm93cygpWzBdLnRleHQKICAgICAgICBhc3NlcnRJbignQVNPJywgcm93X3RleHQpCiAgICAgICAgYXNzZXJ0SW4oJzEnLCByb3dfdGV4dCkKICAgICAgICBhc3NlcnRJbignY2hyb21vZ2VuJywgcm93X3RleHQpCiAgICAgICAgYXNzZXJ0SW4oJ3ByaW1hcnknLCByb3dfdGV4dCkKICAgICAgICBhc3NlcnRJbignc2Vjb25kYXJ5Jywgcm93X3RleHQpCiAgICAgICAgZmlyc3Rfcm93LmFzc2F5X2VkaXRvci5zYXZlX2J1dHRvbi5jbGljaygpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEpha3ViJ3MgY29kZSAoZmlyc3Qtcm93IGNvbWVzIGZyb20gdGhlIG1haW4gdGFibGUpCiAgICAgICAgZWRpdG9yLmVkaXRfYXNzYXlfcm93X3ZhbHVlcyhmaXJzdF9yb3csIGRhdGEpCgogICAgICAgICMgSm9lJ3MgY29kZSAodGFrZSBmaXJzdCByb3cgZnJvbSBlZGl0b3IsIHdvcmtzIGxvY2FsbHkpCiAgICAgICAgIyBmaXJzdF9hc3NheV9lZGl0b3Jfcm93ID0gZWRpdG9yLmdldF9yb3dfYnlfaW5kZXgoMCkKICAgICAgICAjIGVkaXRvci5lZGl0X2Fzc2F5X3Jvd192YWx1ZXMoZmlyc3RfYXNzYXlfZWRpdG9yX3JvdywgZGF0YSkK</text>
+        <text encoding="base64">CiAgICAgICAgIyByb3dfdGV4dCA9IGVkaXRvci5nZXRfcm93cygpWzBdLnRleHQKICAgICAgICAjIGFzc2VydEluKCdBU08nLCByb3dfdGV4dCkKICAgICAgICAjIGFzc2VydEluKCcxJywgcm93X3RleHQpCiAgICAgICAgIyBhc3NlcnRJbignY2hyb21vZ2VuJywgcm93X3RleHQpCiAgICAgICAgIyBhc3NlcnRJbigncHJpbWFyeScsIHJvd190ZXh0KQogICAgICAgICMgYXNzZXJ0SW4oJ3NlY29uZGFyeScsIHJvd190ZXh0KQogICAgICAgICMgZWRpdG9yLnNhdmVfYnV0dG9uLmNsaWNrKCkKICAgICAgICAjIHdhaXRfdW50aWwodGFibGUuZHJpdmVyLCBUZXN0TWV0YWRhdGFUYWJsZS5jZWxsX2hhc192YWx1ZSh0YWJsZSwgZmlyc3Rfcm93LCBjb2x1bW5faWQsICdBU08nKSkKICAgICAgICAjIGFzc2VydEVxdWFscyhmaXJzdF9yb3cuZ2V0X2NlbGxfdmFsdWVfYnlfY29sX2lkKGNvbHVtbl9pZCksICdBU08nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdhaXRfdW50aWwobWV0YWRhdGFfdGFibGUuZHJpdmVyLCBFeHBlY3QuY2xpY2thYmxlKGZpcnN0X3Jvdy5hc3NheV9lZGl0b3Iuc2F2ZV9idXR0b24ubG9jYXRvcikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
