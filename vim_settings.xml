@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZW1wX3Jlc3VsdHNfZGlyXD4=</entry>
         <entry encoding="base64">XDxyb290Y29uXD4=</entry>
         <entry encoding="base64">XDxzaWR1c19iZVw+</entry>
         <entry encoding="base64">XDxXb3JrX2NvbnRleHRfZGlyZWN0b3J5XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjZWxsX25vdF9lbXB0eVw+</entry>
         <entry encoding="base64">XDxjZWxsX2hhc192YWx1ZVw+</entry>
         <entry encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</entry>
+        <entry encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/folder/dir/</entry>
@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589451832009">
+      <file name="/Dummy.txt" timestamp="1589530720473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1589524163227">
@@ -127,11 +127,11 @@
       <file name="/fragment.py" timestamp="1589450335566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_wait_predicates.py" timestamp="1589529356210">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="51" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_wait_predicates.py" timestamp="1589529690379">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589529101642">
         <mark key="[" line="0" column="15" />
@@ -177,11 +177,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589529073469">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="117" column="43" />
-        <mark key="." line="43" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1589530891592">
+        <mark key="'" line="106" column="61" />
+        <mark key="[" line="106" column="42" />
+        <mark key="]" line="106" column="42" />
+        <mark key="^" line="74" column="8" />
+        <mark key="." line="106" column="42" />
       </file>
       <file name="/test_upload_slides.py" timestamp="1589445263362">
         <mark key="[" line="33" column="0" />
@@ -285,6 +286,7 @@
       <jump line="49" column="28" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
       <jump line="98" column="49" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
       <jump line="44" column="92" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
+      <jump line="106" column="61" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,14 +294,14 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CiAgICAgICAgIiIiCiAgICBUT0RPIHNob3VsZCB0aGlzIGJlIG1vdmVkIHRvIHV0aWxzIEtob2EvSmFrdWI/CiAgICAiIiIKICAgICMgcmV0dXJuIGFuIGFkYXB0ZWQgZnVuY3Rpb24gZm9yIHVzaW5nIHdpdGggd2FpdF91bnRpbAogICAgZGVmIF9lbGVtZW50X2hhc192YWx1ZShkcml2ZXIpOgogICAgICAgIGVsZW1lbnQgPSBkcml2ZXIuZmluZF9lbGVtZW50KEJ5LkNTU19TRUxFQ1RPUiwgY3NzKQogICAgICAgIHJldHVybiBib29sKGVsZW1lbnQpIGFuZCBib29sKGVsZW1lbnQudGV4dCkKCiAgICByZXR1cm4gX2VsZW1lbnRfaGFzX3ZhbHVlCgo=</text>
+      <register name="*" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</text>
+        <text encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGVsZW1lbnRfbWF0Y2hlc19jcml0ZXJpYShjc3MsIHByZWRpY2F0ZSk6Cg==</text>
@@ -338,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</last-search>
+      <last-search encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</last-pattern>
       <last-replace>for</last-replace>
       <last-substitute>if</last-substitute>
       <last-dir>1</last-dir>
