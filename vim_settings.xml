@@ -177,11 +177,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590503894592">
-        <mark key="[" line="38" column="91" />
-        <mark key="]" line="38" column="91" />
-        <mark key="." line="38" column="91" />
-        <mark key="^" line="38" column="78" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590504167824">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="/test_upload_slides.py" timestamp="1589445263362">
         <mark key="[" line="33" column="0" />
@@ -301,16 +301,16 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>,</text>
+        <text>annotation_set</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>annotation_set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHByb2plY3Rfc2VydmljZV9icC5yb3V0ZSgnL3YxL3Byb2plY3RzLzxwcm9qZWN0X2lkPi9zbGlkZXMvYmF0Y2gtdXBkYXRlJywgbWV0aG9kcz1bJ1BPU1QnXSkKZGVmIGJhdGNoX3VwZGF0ZV9zbGlkZXMocHJvamVjdF9pZCk6CiAgICBwcm9qZWN0ID0gZGF0YS5nZXQocHJvamVjdF9pZCwgeydzbGlkZXMnOiBbXX0pCiAgICBwcm9qZWN0X3NsaWRlcyA9IHByb2plY3RbJ3NsaWRlcyddCiAgICB1cGRhdGVkID0gW10KICAgIGZvciBzbGlkZSBpbiByZXF1ZXN0Lmpzb246CiAgICAgICAgb3JpZ2luYWwgPSBuZXh0KGZpbHRlcihsYW1iZGEgeDogeFsnaWQnXSA9PSBzbGlkZVsnaWQnXSwgcHJvamVjdF9zbGlkZXMpKQogICAgICAgIG9yaWdpbmFsLnVwZGF0ZShzbGlkZSkKICAgICAgICB1cGRhdGVkLmFwcGVuZChvcmlnaW5hbCkKICAgIHJldHVybiBqc29uaWZ5KHVwZGF0ZWQpCg==</text>
+        <text encoding="base64">QGFubm90YXRpb25zX3NlcnZpY2VfYnAucm91dGUoJy92MS9hbm5vdGF0aW9uLXNldHMvPGFubm90YXRpb25fc2V0Pi9hbm5vdGF0aW9uJywgbWV0aG9kcz1bJ1BPU1QnXSkKZGVmIGNyZWF0ZV9hbm5vdGF0aW9uX2Zvcl9zZXQoYW5ub3RhdGlvbl9zZXQpOgogICAgcmV0dXJuIGpzb25pZnkoW10pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIGdldF9hbm5vdGF0aW9uc19mb3Jfc2xpZGVzKGFubm90YXRpb24tc2V0LCBzbGlkZV9pZCk6Cg==</text>
