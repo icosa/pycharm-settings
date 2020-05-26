@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWR1c19iZVw+</entry>
         <entry encoding="base64">XDxXb3JrX2NvbnRleHRfZGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDx3b3JrX2NvbnRleHRfZGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9kcmNfdmlld19jb25maWdcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxvcGVuX3VwbG9hZF9wYW5lbFw+</entry>
         <entry encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</entry>
         <entry encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/folder/dir/</entry>
@@ -177,17 +177,19 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590505531399">
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="45" />
-        <mark key="^" line="43" column="46" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590520216892">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="/test_upload_slides.py" timestamp="1589445263362">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="109" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/projects/projects_service.py" timestamp="1590505264731">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/projects/projects_service.py" timestamp="1590519826222">
+        <mark key="'" line="100" column="24" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="89" />
         <mark key="." line="9" column="98" />
@@ -293,6 +295,8 @@
       <jump line="44" column="92" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" />
       <jump line="106" column="61" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" />
       <jump line="6" column="22" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_wait_predicates.py" />
+      <jump line="100" column="24" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/projects/projects_service.py" />
+      <jump line="45" column="15" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,43 +305,43 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>#1234 Another project</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>#1234 Another project</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{'id': 'set1', 'name': '#1234 Another project'}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdlbyA9IHJlcXVlc3QuanNvblsnZ2VvbWV0cnknXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdkYXRhJzogeydpZCc6ICdwcm9qZWN0MycsICduYW1lJzogJyMxMjM0IEFub3RoZXIgc2V0JywgJ3N0YXR1cyc6ICdVbmtub3duJ30sCg==</text>
+        <text encoding="base64">ICAgIC8vIG1ha2UKICAgIG5ldwogICAgYWN0aW9uCiAgICBhZGQgb3IgcmVwbGFjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldF9hbm5vdGF0aW9uc19mb3Jfc2xpZGVzKGFubm90YXRpb24tc2V0LCBzbGlkZV9pZCk6Cg==</text>
+        <text encoding="base64">ICAgICdkYXRhJzogeydpZCc6ICdwcm9qZWN0MycsICduYW1lJzogJyMxMjM0IEFub3RoZXIgc2V0JywgJ3N0YXR1cyc6ICdVbmtub3duJ30sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QgPSBkYXRhLmdldChwcm9qZWN0X2lkLCB7J3NsaWRlcyc6IFtdfSkKICAgIHByb2plY3Rfc2xpZGVzID0gcHJvamVjdFsnc2xpZGVzJ10KICAgIHVwZGF0ZWQgPSBbXQogICAgZm9yIHNsaWRlIGluIHJlcXVlc3QuanNvbjoKICAgICAgICBvcmlnaW5hbCA9IG5leHQoZmlsdGVyKGxhbWJkYSB4OiB4WydpZCddID09IHNsaWRlWydpZCddLCBwcm9qZWN0X3NsaWRlcykpCiAgICAgICAgb3JpZ2luYWwudXBkYXRlKHNsaWRlKQogICAgICAgIHVwZGF0ZWQuYXBwZW5kKG9yaWdpbmFsKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9hbm5vdGF0aW9uc19mb3Jfc2xpZGVzKGFubm90YXRpb24tc2V0LCBzbGlkZV9pZCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGhhc190ZXh0X3ZhbHVlKHZhbHVlKToKICAgIGRlZiBfaGFzX3RleHRfdmFsdWUoZWxlbWVudCk6CiAgICAgICAgY29tcF92YWx1ZSA9IGVsZW1lbnQudGV4dAogICAgICAgIHJldHVybiBjb21wX3ZhbHVlID09IHZhbHVlCiAgICByZXR1cm4gX2hhc190ZXh0X3ZhbHVlCgoK</text>
+        <text encoding="base64">ICAgIHByb2plY3QgPSBkYXRhLmdldChwcm9qZWN0X2lkLCB7J3NsaWRlcyc6IFtdfSkKICAgIHByb2plY3Rfc2xpZGVzID0gcHJvamVjdFsnc2xpZGVzJ10KICAgIHVwZGF0ZWQgPSBbXQogICAgZm9yIHNsaWRlIGluIHJlcXVlc3QuanNvbjoKICAgICAgICBvcmlnaW5hbCA9IG5leHQoZmlsdGVyKGxhbWJkYSB4OiB4WydpZCddID09IHNsaWRlWydpZCddLCBwcm9qZWN0X3NsaWRlcykpCiAgICAgICAgb3JpZ2luYWwudXBkYXRlKHNsaWRlKQogICAgICAgIHVwZGF0ZWQuYXBwZW5kKG9yaWdpbmFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ZGVmIGhhc190ZXh0X3ZhbHVlKHZhbHVlKToKICAgIGRlZiBfaGFzX3RleHRfdmFsdWUoZWxlbWVudCk6CiAgICAgICAgY29tcF92YWx1ZSA9IGVsZW1lbnQudGV4dAogICAgICAgIHJldHVybiBjb21wX3ZhbHVlID09IHZhbHVlCiAgICByZXR1cm4gX2hhc190ZXh0X3ZhbHVlCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydEVxdWFscyhhdXRob3JpemVkX3BvcnRhbC5zbGlkZXNfcGFnZS5zbGlkZXNfY291bnQudGV4dCwgJzAgb2YgMCBzbGlkZXMnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHBvcnRhbF90ZXN0cy51dGlscy5lbGVtZW50X3dhaXRfcHJlZGljYXRlcyBpbXBvcnQgZWxlbWVudF9oYXNfZXhhY3RfdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydEVxdWFscyhhdXRob3JpemVkX3BvcnRhbC5zbGlkZXNfcGFnZS5zbGlkZXNfY291bnQudGV4dCwgJzAgb2YgMCBzbGlkZXMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnI3NsaWRlLWxpc3Qtc2xpZGUtY291bnQnCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHBvcnRhbF90ZXN0cy51dGlscy5lbGVtZW50X3dhaXRfcHJlZGljYXRlcyBpbXBvcnQgZWxlbWVudF9oYXNfZXhhY3RfdmFsdWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -346,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>for</last-replace>
       <last-substitute>if</last-substitute>
       <last-dir>1</last-dir>
