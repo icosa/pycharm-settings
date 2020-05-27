@@ -132,9 +132,6 @@
       <file name="/a.dummy" timestamp="1589529101642">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1589348795450">
-        <mark key="[" line="29" column="18" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" timestamp="1589446406325">
         <mark key="'" line="44" column="92" />
         <mark key="[" line="26" column="0" />
@@ -148,6 +145,12 @@
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589551926485">
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1590568507346">
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="37" />
+        <mark key="^" line="101" column="38" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590563725124" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589356624520">
@@ -173,7 +176,7 @@
         <mark key="^" line="71" column="35" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590563931107" />
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590567550858">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
         <mark key="[" line="6" column="114" />
         <mark key="]" line="6" column="117" />
         <mark key="." line="6" column="116" />
@@ -294,10 +297,10 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>qptiff</text>
+        <text>gateway</text>
       </register>
       <register name="-" type="4">
-        <text>qptiff</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
