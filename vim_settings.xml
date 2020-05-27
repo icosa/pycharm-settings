@@ -177,10 +177,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590558687661">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590559637205">
+        <mark key="[" line="112" column="26" />
+        <mark key="]" line="112" column="26" />
+        <mark key="." line="112" column="26" />
+        <mark key="^" line="112" column="33" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590558755579">
         <mark key="[" line="6" column="93" />
@@ -301,11 +302,11 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50LCBqc29uaWZ5LCBzZW5kX2ZpbGUsIHJlcXVlc3QK</text>
+      <register name="*" type="4">
+        <text>a, b, c</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>a, b, c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
