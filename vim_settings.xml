@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxXb3JrX2NvbnRleHRfZGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDx3b3JrX2NvbnRleHRfZGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9kcmNfdmlld19jb25maWdcPg==</entry>
         <entry encoding="base64">XDxhbm5vX3BhdGhfbGlzdFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxlbGVtZW50X2hhc192YWx1ZVw+</entry>
         <entry encoding="base64">XDxmaW5kX2VsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/source/left/g</entry>
@@ -113,14 +113,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590558833288">
+      <file name="/Dummy.txt" timestamp="1590573420694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590572366851">
+      <file name="/Python Console" timestamp="1590573343874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1590570832997">
-        <mark key="[" line="0" column="22" />
+      <file name="/fragment.py" timestamp="1590572667536">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_wait_predicates.py" timestamp="1589552658943">
         <mark key="'" line="6" column="22" />
@@ -152,10 +152,11 @@
         <mark key="." line="101" column="37" />
         <mark key="^" line="101" column="38" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590570548173">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590572953369">
+        <mark key="[" line="28" column="98" />
+        <mark key="]" line="28" column="105" />
+        <mark key="." line="28" column="104" />
+        <mark key="^" line="28" column="105" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589356624520">
         <mark key="[" line="15" column="17" />
@@ -179,12 +180,12 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="67" column="66" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590572242417">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="121" column="70" />
-        <mark key="]" line="122" column="16" />
-        <mark key="^" line="122" column="16" />
-        <mark key="." line="122" column="15" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590573322155">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="88" column="64" />
+        <mark key="]" line="88" column="64" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="88" column="64" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
         <mark key="[" line="6" column="114" />
@@ -300,6 +301,7 @@
       <jump line="100" column="24" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/projects/projects_service.py" />
       <jump line="45" column="15" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" />
       <jump line="120" column="0" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" />
+      <jump line="18" column="4" filename="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,27 +310,33 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>actual</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>actual</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjdHVhbF9pbWcuc2F2ZShyJ2M6XHZhclxhY3R1YWwucG5nJykK</text>
+        <text encoding="base64">ICAgIGNhbnZhc19iYXNlNjQgPSBpbWFnZV92aWV3ZXJfcGFnZS5kcml2ZXIuZXhlY3V0ZV9zY3JpcHQoY21kLCBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZWxlbWVudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQogICAgZWxzZToKICAgICAgICBhY3R1YWxfaW1nLnNhdmUocidjOlx2YXJcZ29vZC5wbmcnKQo=</text>
+        <text encoding="base64">ICAgIGNhbnZhc19iYXNlNjQgPSBpbWFnZV92aWV3ZXJfcGFnZS5kcml2ZXIuZXhlY3V0ZV9zY3JpcHQoY21kLCBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZWxlbWVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGRpZmZfcGVyY2VudGFnZSA+IDAuMjoK</text>
+        <text encoding="base64">ICAgIGlmIHBvcnRhbDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAvdjEvc2xpZGVzL3tzbGlkZUlkfS9lcXVhbGl6YXRpb25QcmVzZXQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQogICAgZWxzZToKICAgICAgICBhY3R1YWxfaW1nLnNhdmUocidjOlx2YXJcZ29vZC5wbmcnKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGRpZmZfcGVyY2VudGFnZSA+IDAuMjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAvdjEvc2xpZGVzL3tzbGlkZUlkfS9lcXVhbGl6YXRpb25QcmVzZXQK</text>
+      </register>
+      <register name="6" type="2">
         <text>class TestCorrectingClosedAnnotation:
     &quot;&quot;&quot;
     :doc-case-id: 19059
@@ -433,20 +441,14 @@ class TestCorrectingOverlappingAnnotation:
         diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
         assertEquals(diff, 0, 0.1)</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGtleSA9IGYne3Byb2plY3RfaWR9OntzbGlkZV9pZH0nCiAgICBhbm5vdGF0aW9uX2FycmF5ID0gYW5ub3RhdGlvbnMuZ2V0KGtleSwgY3JlYXRlX2Fubm90YXRpb25fc2V0KHByb2plY3RfaWQsIHNsaWRlX2lkLCAnZGVmYXVsdCcpKQogICAgYW5ub3RhdGlvbnNba2V5XSA9IGFubm90YXRpb25fYXJyYXkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkKCgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50LCBqc29uaWZ5LCBzZW5kX2ZpbGUsIHJlcXVlc3QK</text>
+        <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -455,9 +457,9 @@ class TestCorrectingOverlappingAnnotation:
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</last-pattern>
       <last-replace>for</last-replace>
       <last-substitute>if</last-substitute>
       <last-dir>1</last-dir>
