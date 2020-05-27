@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/folder/dir/</entry>
         <entry>%s/source/left/g</entry>
         <entry>%s/target/right/g</entry>
         <entry>w2</entry>
@@ -46,6 +45,7 @@
         <entry>we</entry>
         <entry>s</entry>
         <entry>30</entry>
+        <entry>122</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -116,7 +116,7 @@
       <file name="/Dummy.txt" timestamp="1590558833288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590571136047">
+      <file name="/Python Console" timestamp="1590572366851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1590570832997">
@@ -129,8 +129,8 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="34" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1589529101642">
-        <mark key="[" line="0" column="15" />
+      <file name="/a.dummy" timestamp="1590572130290">
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" timestamp="1589446406325">
         <mark key="'" line="44" column="92" />
@@ -173,18 +173,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590569774247">
-        <mark key="[" line="67" column="65" />
-        <mark key="]" line="67" column="66" />
-        <mark key="." line="67" column="65" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590571866837">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
         <mark key="^" line="67" column="66" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590571285466">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590572242417">
         <mark key="'" line="120" column="0" />
-        <mark key="[" line="120" column="24" />
-        <mark key="]" line="120" column="25" />
-        <mark key="^" line="120" column="25" />
-        <mark key="." line="120" column="24" />
+        <mark key="[" line="121" column="70" />
+        <mark key="]" line="122" column="16" />
+        <mark key="^" line="122" column="16" />
+        <mark key="." line="122" column="15" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
         <mark key="[" line="6" column="114" />
@@ -307,121 +307,28 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text>class TestCorrectingClosedAnnotation:
-    &quot;&quot;&quot;
-    :doc-case-id: 19059
-    &quot;&quot;&quot;
-    baseline_annotation = {
-        'coords': [],
-        'closed': True,
-        'selected': False,
-        'color': ANNOTATION_CLASSES['Tumor'].color
-    }
-
-    def test_draw_closed_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: In the image viewer, enable draw mode and draw a square polygon
-        :doc-step: Square is a drawn and has a transparent fill
-        &quot;&quot;&quot;
-        offsets = [(0, 100), (100, 0), (0, -100), (-100, 0)]
-        self.baseline_annotation['coords'] = offset_to_abs(offsets)
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets)
-        assertEquals(diff, 0, 0.1)
-
-    def test_make_polygon_smaller(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the middle of the bottom side of the polygon,
-        :doc-action: click and drag to the top middle
-        :doc-step: Square is half the original size
-        &quot;&quot;&quot;
-        self.baseline_annotation['coords'] = offset_to_abs(
-            [(0, 0), (-50, 0), (0, -100), (50, 0), (0, 100)], (100, 100))
-        offsets = [(0, -100)]
-        moves = ActionOffsetMoves(coords=[(50, 100), ])
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-    def test_make_polygon_bigger(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the top side of the polygon, click and draw a bigger shape around the polygon
-        :doc-step: Square is now larger again
-        &quot;&quot;&quot;
-        self.baseline_annotation['coords'] = offset_to_abs(
-            [(0, -50), (0, -50), (100, 0), (0, 200), (-100, 0), (0, -100)],
-            (50, 50),
-        )
-        offsets = [(0, -50), (0, 0), (100, 0), (0, 200), (-100, 0)]
-        moves = ActionOffsetMoves(coords=[(50, 0), ])
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-
-class TestCorrectingOverlappingAnnotation:
-    &quot;&quot;&quot;
-    :doc-case-id: 19057
-    &quot;&quot;&quot;
-    baseline_annotations = [
-        {
-            'coords': [],
-            'closed': True,
-            'selected': False,
-            'color': ANNOTATION_CLASSES['Tumor'].color
-        },
-        {
-            'coords': [],
-            'closed': True,
-            'selected': False,
-            'color': ANNOTATION_CLASSES['Tumor'].color
-        },
-    ]
-
-    def test_draw_smaller_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: In the image viewer, enable draw mode and draw a small square polygon
-        :doc-step: Square is a drawn and has a transparent fill
-        &quot;&quot;&quot;
-        offsets = [(0, 100), (100, 0), (0, -100), (-100, 0)]
-        self.baseline_annotations[0]['coords'] = offset_to_abs(offsets)
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotations[0]], offsets)
-        assertEquals(diff, 0, 0.1)
-
-    def test_draw_bigger_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: Draw a different, bigger square polygon around the smaller one
-        :doc-step: The small square is inside the bigger square
-        &quot;&quot;&quot;
-        offsets = [(0, 200), (200, 0), (0, -200), (-200, 0)]
-        self.baseline_annotations[1]['coords'] = offset_to_abs(offsets, (-50, -50))
-        moves = ActionOffsetMoves(coords=[(-50, -50), ])
-        diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-    def test_correct_smaller_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the middle of the bottom side of the small polygon,
-        :doc-action: click and drag to its top middle
-        :doc-step: Smaller square is half the size
-        &quot;&quot;&quot;
-        self.baseline_annotations[0]['coords'] = offset_to_abs(
-            [(0, 50), (50, 0), (0, -100), (-50, 0), (0, 50)],
-            (50, 50),
-        )
-        offsets = [(0, -100)]
-        moves = ActionOffsetMoves(coords=[(50, 100), ])
-        diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
-        assertEquals(diff, 0, 0.1)</text>
+      <register name="*" type="4">
+        <text>actual</text>
       </register>
       <register name="-" type="4">
-        <text>annotation_array</text>
+        <text>actual</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGFubm90YXRpb25zX3NlcnZpY2VfYnAucm91dGUoJy92MS9wcm9qZWN0cy88cHJvamVjdF9pZD4vc2xpZGVzLzxzbGlkZV9pZD4vYW5ub3RhdGlvbnMtc2V0cycsIG1ldGhvZHM9WydHRVQnXSkKZGVmIGdldF9hbm5vdGF0aW9uX3NldChwcm9qZWN0X2lkLCBzbGlkZV9pZCk6CiAgICBrZXkgPSBmJ3twcm9qZWN0X2lkfTp7c2xpZGVfaWR9JwogICAgYW5ub3RhdGlvbl9hcnJheSA9IGFubm90YXRpb25zLmdldChrZXksIGNyZWF0ZV9hbm5vdGF0aW9uX3NldChwcm9qZWN0X2lkLCBzbGlkZV9pZCwgJ2RlZmF1bHQnKSkKICAgIGFubm90YXRpb25zW2tleV0gPSBhbm5vdGF0aW9uX2FycmF5CiAgICByZXR1cm4ganNvbmlmeShhbm5vdGF0aW9uX2FycmF5KQo=</text>
+        <text encoding="base64">ICAgIGFjdHVhbF9pbWcuc2F2ZShyJ2M6XHZhclxhY3R1YWwucG5nJykK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQogICAgZWxzZToKICAgICAgICBhY3R1YWxfaW1nLnNhdmUocidjOlx2YXJcZ29vZC5wbmcnKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGRpZmZfcGVyY2VudGFnZSA+IDAuMjoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAvdjEvc2xpZGVzL3tzbGlkZUlkfS9lcXVhbGl6YXRpb25QcmVzZXQK</text>
+      </register>
+      <register name="4" type="2">
         <text>class TestCorrectingClosedAnnotation:
     &quot;&quot;&quot;
     :doc-case-id: 19059
@@ -526,29 +433,20 @@ class TestCorrectingOverlappingAnnotation:
         diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
         assertEquals(diff, 0, 0.1)</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGtleSA9IGYne3Byb2plY3RfaWR9OntzbGlkZV9pZH0nCiAgICBhbm5vdGF0aW9uX2FycmF5ID0gYW5ub3RhdGlvbnMuZ2V0KGtleSwgY3JlYXRlX2Fubm90YXRpb25fc2V0KHByb2plY3RfaWQsIHNsaWRlX2lkLCAnZGVmYXVsdCcpKQogICAgYW5ub3RhdGlvbnNba2V5XSA9IGFubm90YXRpb25fYXJyYXkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkKCgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50LCBqc29uaWZ5LCBzZW5kX2ZpbGUsIHJlcXVlc3QK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIG1ha2UKICAgIG5ldwogICAgYWN0aW9uCiAgICBhZGQgb3IgcmVwbGFjZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdkYXRhJzogeydpZCc6ICdwcm9qZWN0MycsICduYW1lJzogJyMxMjM0IEFub3RoZXIgc2V0JywgJ3N0YXR1cyc6ICdVbmtub3duJ30sCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9hbm5vdGF0aW9uc19mb3Jfc2xpZGVzKGFubm90YXRpb24tc2V0LCBzbGlkZV9pZCk6Cg==</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50LCBqc29uaWZ5LCBzZW5kX2ZpbGUsIHJlcXVlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
