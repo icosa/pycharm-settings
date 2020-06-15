@@ -116,6 +116,9 @@
       <file name="/Dummy.txt" timestamp="1590576867916">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1592230396955">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1592224344034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,9 +182,11 @@
         <mark key="." line="6" column="116" />
         <mark key="^" line="6" column="117" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592228379695">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="39" column="107" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592231000958">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="/test_metadata_table.py" timestamp="1589449973083">
         <mark key="[" line="116" column="0" />
@@ -294,17 +299,17 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGNhbnZhc19wbmcgPSBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZHJpdmVyLmdldF9zY3JlZW5zaG90X2FzX3BuZygpCiAgICBsb2NhdGlvbiA9IGltYWdlX3ZpZXdlcl9wYWdlLmNhbnZhcy5yZWN0CiAgICBzaXplID0gNjAwCiAgICB4X2xvYyA9IChsb2NhdGlvblsnd2lkdGgnXSAvIDIpIC0gKHNpemUgLyAyKSArIGxvY2F0aW9uWyd4J10KICAgIHlfbG9jID0gKGxvY2F0aW9uWydoZWlnaHQnXSAvIDIpIC0gKHNpemUgLyAyKSArIGxvY2F0aW9uWyd5J10KICAgIHdpZHRoID0geF9sb2MgKyBzaXplCiAgICBoZWlnaHQgPSB5X2xvYyArIHNpemUKICAgIGNhbnZhc19wbmcgPSBJbWFnZS5vcGVuKGlvLkJ5dGVzSU8oY2FudmFzX3BuZykpLmNyb3AoKGludCh4X2xvYyksIGludCh5X2xvYyksIGludCh3aWR0aCksIGludChoZWlnaHQpKSkK</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbnZhc19wbmcgPSBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZHJpdmVyLmdldF9zY3JlZW5zaG90X2FzX3BuZygpCiAgICBsb2NhdGlvbiA9IGltYWdlX3ZpZXdlcl9wYWdlLmNhbnZhcy5yZWN0CiAgICBzaXplID0gNjAwCiAgICB4X2xvYyA9IChsb2NhdGlvblsnd2lkdGgnXSAvIDIpIC0gKHNpemUgLyAyKSArIGxvY2F0aW9uWyd4J10KICAgIHlfbG9jID0gKGxvY2F0aW9uWydoZWlnaHQnXSAvIDIpIC0gKHNpemUgLyAyKSArIGxvY2F0aW9uWyd5J10KICAgIHdpZHRoID0geF9sb2MgKyBzaXplCiAgICBoZWlnaHQgPSB5X2xvYyArIHNpemUKICAgIGNhbnZhc19wbmcgPSBJbWFnZS5vcGVuKGlvLkJ5dGVzSU8oY2FudmFzX3BuZykpLmNyb3AoKGludCh4X2xvYyksIGludCh5X2xvYyksIGludCh3aWR0aCksIGludChoZWlnaHQpKSkK</text>
+        <text encoding="base64">ICAgIHdpZHRoID0geF9sb2MgKyBzaXplCiAgICBoZWlnaHQgPSB5X2xvYyArIHNpemUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
