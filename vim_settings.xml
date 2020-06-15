@@ -116,7 +116,7 @@
       <file name="/Dummy.txt" timestamp="1590576867916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1592222198746">
+      <file name="/Python Console" timestamp="1592223368674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1592222220015">
@@ -158,16 +158,6 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="105" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/run.py" timestamp="1589356624520">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="20" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" timestamp="1589360476734">
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="300" column="24" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/element_waiters.py" timestamp="1589529084314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
@@ -192,10 +182,7 @@
         <mark key="." line="6" column="116" />
         <mark key="^" line="6" column="117" />
       </file>
-      <file name="/test_upload_slides.py" timestamp="1589445263362">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="109" />
-      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592222946459" />
       <file name="/test_metadata_table.py" timestamp="1589449973083">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="102" />
