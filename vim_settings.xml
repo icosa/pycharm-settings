@@ -175,10 +175,9 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/annotations/annotations_service.py" timestamp="1590576863240">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="54" column="66" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590573322155">
         <mark key="'" line="18" column="4" />
@@ -197,7 +196,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="109" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/projects/projects_service.py" timestamp="1590558740466" />
       <file name="/test_metadata_table.py" timestamp="1589449973083">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="102" />
