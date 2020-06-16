@@ -42,10 +42,10 @@
         <entry>hsplit</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>we</entry>
         <entry>s</entry>
         <entry>30</entry>
         <entry>122</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,12 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590576867916">
+      <file name="/Python Console" timestamp="1592293281360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1592231652298">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1592293939943" />
       <file name="/fragment.py" timestamp="1592224344034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,25 +130,11 @@
       <file name="/a.dummy" timestamp="1590572130290">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="/annotation_utils.py" timestamp="1590577513143">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="30" column="21" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/upload_slides/test_upload_slides.py" timestamp="1589446406325">
-        <mark key="'" line="44" column="92" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="67" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589551926485">
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1590568507346">
-        <mark key="[" line="101" column="29" />
-        <mark key="]" line="101" column="38" />
-        <mark key="." line="101" column="37" />
-        <mark key="^" line="101" column="38" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592293772719">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+        <mark key="." line="53" column="43" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590572953369">
         <mark key="[" line="28" column="98" />
@@ -169,28 +153,40 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590573322155">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="88" column="64" />
-        <mark key="]" line="88" column="64" />
-        <mark key="^" line="18" column="53" />
-        <mark key="." line="88" column="64" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
         <mark key="[" line="6" column="114" />
         <mark key="]" line="6" column="117" />
         <mark key="." line="6" column="116" />
         <mark key="^" line="6" column="117" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592231596783">
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="33" column="61" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592292918844">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="^" line="33" column="61" />
-        <mark key="." line="33" column="60" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="/test_metadata_table.py" timestamp="1589449973083">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="102" />
+      <file name="/Dummy.txt" timestamp="1590576867916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/annotation_utils.py" timestamp="1590577513143">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="30" column="21" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589551926485">
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1590568507346">
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="37" />
+        <mark key="^" line="101" column="38" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590573322155">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="88" column="64" />
+        <mark key="]" line="88" column="64" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="88" column="64" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/row.py" timestamp="1589451216939">
         <mark key="[" line="37" column="0" />
@@ -300,10 +296,10 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</text>
@@ -312,133 +308,31 @@
         <text encoding="base64">ICAgIHdpZHRoID0geF9sb2MgKyBzaXplCiAgICBoZWlnaHQgPSB5X2xvYyArIHNpemUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgd2lkdGggPSBzaXplCiAgICAjIGhlaWdodCA9IHNpemUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhbnZhc19iYXNlNjQgPSBpbWFnZV92aWV3ZXJfcGFnZS5kcml2ZXIuZXhlY3V0ZV9zY3JpcHQoY21kLCBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZWxlbWVudCkK</text>
+        <text encoding="base64">IyBAYW5ub3RhdGlvbnNfc2VydmljZV9icC5yb3V0ZSgnL3YxL2Fubm90YXRpb25zLXNldHMnLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9zZXQoKToKIyAgICAgcmV0dXJuIGpzb25pZnkoeydpZCc6ICdzZXQxJywgJ25hbWUnOiAnIzEyMzQgQW5vdGhlciBwcm9qZWN0J30pCiMKIwojIEBhbm5vdGF0aW9uc19zZXJ2aWNlX2JwLnJvdXRlKCcvdjEvYW5ub3RhdGlvbnMtc2V0cy88YW5ub3RhdGlvbl9zZXQ+L2Fubm90YXRpb24nLCBtZXRob2RzPVsnUE9TVCddKQojIGRlZiBjcmVhdGVfYW5ub3RhdGlvbl9mb3Jfc2V0KGFubm90YXRpb25fc2V0KToKIyAgICAgZ2VvID0gcmVxdWVzdC5qc29uWydnZW9tZXRyeSddCiMgICAgIHByb3BlcnRpZXMgPSByZXF1ZXN0Lmpzb25bJ3Byb3BlcnRpZXMnXQojICAgICBhbm5vdGF0aW9uX3R5cGUgPSByZXF1ZXN0Lmpzb25bJ3R5cGUnXQojICAgICByZXR1cm4ganNvbmlmeSh7J2lkJzogJ2Fubm8xJywgJ2dlb21ldHJ5JzogZ2VvLCAncHJvcGVydGllcyc6IHByb3BlcnRpZXMsICd0eXBlJzogYW5ub3RhdGlvbl90eXBlfSkKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHBvcnRhbDoK</text>
+        <text encoding="base64">ICAgIGNhbnZhc19iYXNlNjQgPSBpbWFnZV92aWV3ZXJfcGFnZS5kcml2ZXIuZXhlY3V0ZV9zY3JpcHQoY21kLCBpbWFnZV92aWV3ZXJfcGFnZS5jYW52YXMuZWxlbWVudCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQogICAgZWxzZToKICAgICAgICBhY3R1YWxfaW1nLnNhdmUocidjOlx2YXJcZ29vZC5wbmcnKQo=</text>
+        <text encoding="base64">ICAgIGlmIHBvcnRhbDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGRpZmZfcGVyY2VudGFnZSA+IDAuMjoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQogICAgZWxzZToKICAgICAgICBhY3R1YWxfaW1nLnNhdmUocidjOlx2YXJcZ29vZC5wbmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAvdjEvc2xpZGVzL3tzbGlkZUlkfS9lcXVhbGl6YXRpb25QcmVzZXQK</text>
+        <text encoding="base64">ICAgIGlmIGRpZmZfcGVyY2VudGFnZSA+IDAuMjoK</text>
       </register>
       <register name="9" type="2">
-        <text>class TestCorrectingClosedAnnotation:
-    &quot;&quot;&quot;
-    :doc-case-id: 19059
-    &quot;&quot;&quot;
-    baseline_annotation = {
-        'coords': [],
-        'closed': True,
-        'selected': False,
-        'color': ANNOTATION_CLASSES['Tumor'].color
-    }
-
-    def test_draw_closed_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: In the image viewer, enable draw mode and draw a square polygon
-        :doc-step: Square is a drawn and has a transparent fill
-        &quot;&quot;&quot;
-        offsets = [(0, 100), (100, 0), (0, -100), (-100, 0)]
-        self.baseline_annotation['coords'] = offset_to_abs(offsets)
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets)
-        assertEquals(diff, 0, 0.1)
-
-    def test_make_polygon_smaller(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the middle of the bottom side of the polygon,
-        :doc-action: click and drag to the top middle
-        :doc-step: Square is half the original size
-        &quot;&quot;&quot;
-        self.baseline_annotation['coords'] = offset_to_abs(
-            [(0, 0), (-50, 0), (0, -100), (50, 0), (0, 100)], (100, 100))
-        offsets = [(0, -100)]
-        moves = ActionOffsetMoves(coords=[(50, 100), ])
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-    def test_make_polygon_bigger(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the top side of the polygon, click and draw a bigger shape around the polygon
-        :doc-step: Square is now larger again
-        &quot;&quot;&quot;
-        self.baseline_annotation['coords'] = offset_to_abs(
-            [(0, -50), (0, -50), (100, 0), (0, 200), (-100, 0), (0, -100)],
-            (50, 50),
-        )
-        offsets = [(0, -50), (0, 0), (100, 0), (0, 200), (-100, 0)]
-        moves = ActionOffsetMoves(coords=[(50, 0), ])
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotation], offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-
-class TestCorrectingOverlappingAnnotation:
-    &quot;&quot;&quot;
-    :doc-case-id: 19057
-    &quot;&quot;&quot;
-    baseline_annotations = [
-        {
-            'coords': [],
-            'closed': True,
-            'selected': False,
-            'color': ANNOTATION_CLASSES['Tumor'].color
-        },
-        {
-            'coords': [],
-            'closed': True,
-            'selected': False,
-            'color': ANNOTATION_CLASSES['Tumor'].color
-        },
-    ]
-
-    def test_draw_smaller_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: In the image viewer, enable draw mode and draw a small square polygon
-        :doc-step: Square is a drawn and has a transparent fill
-        &quot;&quot;&quot;
-        offsets = [(0, 100), (100, 0), (0, -100), (-100, 0)]
-        self.baseline_annotations[0]['coords'] = offset_to_abs(offsets)
-        diff = compare_drawn_images(image_viewer_page, [self.baseline_annotations[0]], offsets)
-        assertEquals(diff, 0, 0.1)
-
-    def test_draw_bigger_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: Draw a different, bigger square polygon around the smaller one
-        :doc-step: The small square is inside the bigger square
-        &quot;&quot;&quot;
-        offsets = [(0, 200), (200, 0), (0, -200), (-200, 0)]
-        self.baseline_annotations[1]['coords'] = offset_to_abs(offsets, (-50, -50))
-        moves = ActionOffsetMoves(coords=[(-50, -50), ])
-        diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
-        assertEquals(diff, 0, 0.1)
-
-    def test_correct_smaller_polygon(self, image_viewer_page):
-        &quot;&quot;&quot;
-        :doc-action: From the middle of the bottom side of the small polygon,
-        :doc-action: click and drag to its top middle
-        :doc-step: Smaller square is half the size
-        &quot;&quot;&quot;
-        self.baseline_annotations[0]['coords'] = offset_to_abs(
-            [(0, 50), (50, 0), (0, -100), (-50, 0), (0, 50)],
-            (50, 50),
-        )
-        offsets = [(0, -100)]
-        moves = ActionOffsetMoves(coords=[(50, 100), ])
-        diff = compare_drawn_images(image_viewer_page, self.baseline_annotations, offsets, moves)
-        assertEquals(diff, 0, 0.1)</text>
+        <text encoding="base64">IyAvdjEvc2xpZGVzL3tzbGlkZUlkfS9lcXVhbGl6YXRpb25QcmVzZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
