@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1592293281360">
+      <file name="/Python Console" timestamp="1592307390463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1592293939943" />
@@ -130,10 +130,10 @@
       <file name="/a.dummy" timestamp="1590572130290">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592307278304">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592307361443">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590572953369">
         <mark key="[" line="28" column="98" />
