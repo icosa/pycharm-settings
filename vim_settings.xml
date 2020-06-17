@@ -116,7 +116,7 @@
       <file name="/Dummy.txt" timestamp="1590576867916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1592380848903">
+      <file name="/Python Console" timestamp="1592386744800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1592224344034">
@@ -181,11 +181,11 @@
         <mark key="." line="6" column="116" />
         <mark key="^" line="6" column="117" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592380844345">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="38" />
-        <mark key="^" line="44" column="38" />
-        <mark key="." line="44" column="37" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592386729087">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="41" />
+        <mark key="^" line="51" column="26" />
+        <mark key="." line="45" column="41" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/row.py" timestamp="1589451216939">
         <mark key="[" line="37" column="0" />
@@ -295,16 +295,16 @@
         <text>func(3)</text>
       </register>
       <register name="*" type="4">
-        <text>1200</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>1200</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpZHRoID0geF9sb2MgKyBzaXplCiAgICBoZWlnaHQgPSB5X2xvYyArIHNpemUK</text>
+        <text encoding="base64">ICAgICAgICAjIGNhcHR1cmVTY3JpcHQgPSAncmV0dXJuIGFyZ3VtZW50c1swXS50b0RhdGFVUkwoXCdpbWFnZS9wbmdcJykuc3Vic3RyaW5nKDIxKTsnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlci5zZXRfd2luZG93X3Bvc2l0aW9uKDAsIDApCiAgICAgICAgc2VsZi5kcml2ZXIuc2V0X3dpbmRvd19zaXplKDE5MjAsIDEwODApCg==</text>
