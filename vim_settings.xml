@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/source/left/g</entry>
         <entry>%s/target/right/g</entry>
         <entry>w2</entry>
         <entry>%s/if/for/g</entry>
@@ -46,6 +45,7 @@
         <entry>30</entry>
         <entry>122</entry>
         <entry>we</entry>
+        <entry>3w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,10 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1592307390463">
+      <file name="/Dummy.txt" timestamp="1590576867916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/portal.py" timestamp="1592293939943" />
+      <file name="/Python Console" timestamp="1592380848903">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1592224344034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,12 +132,26 @@
       <file name="/a.dummy" timestamp="1590572130290">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592307361443">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" timestamp="1592380475869" />
+      <file name="/annotation_utils.py" timestamp="1590577513143">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="30" column="21" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1590572953369">
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592379571296">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589551926485">
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1590568507346">
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="37" />
+        <mark key="^" line="101" column="38" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/annotations/test_correcting_annotations.py" timestamp="1592379639057">
         <mark key="[" line="28" column="98" />
         <mark key="]" line="28" column="105" />
         <mark key="." line="28" column="104" />
@@ -152,40 +168,24 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
-        <mark key="[" line="6" column="114" />
-        <mark key="]" line="6" column="117" />
-        <mark key="." line="6" column="116" />
-        <mark key="^" line="6" column="117" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592292918844">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="33" column="61" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590576867916">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/annotation_utils.py" timestamp="1590577513143">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="30" column="21" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/projects/test_create_project.py" timestamp="1589551926485">
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/conftest.py" timestamp="1590568507346">
-        <mark key="[" line="101" column="29" />
-        <mark key="]" line="101" column="38" />
-        <mark key="." line="101" column="37" />
-        <mark key="^" line="101" column="38" />
-      </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/utils/annotation_utils.py" timestamp="1590573322155">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="88" column="64" />
         <mark key="]" line="88" column="64" />
         <mark key="^" line="18" column="53" />
         <mark key="." line="88" column="64" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
+        <mark key="[" line="6" column="114" />
+        <mark key="]" line="6" column="117" />
+        <mark key="." line="6" column="116" />
+        <mark key="^" line="6" column="117" />
+      </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592380844345">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="37" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/page_objects/common/ag_grid/row.py" timestamp="1589451216939">
         <mark key="[" line="37" column="0" />
@@ -294,11 +294,11 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlci5zZXRfd2luZG93X3Bvc2l0aW9uKDAsIDApCiAgICAgICAgc2VsZi5kcml2ZXIuc2V0X3dpbmRvd19zaXplKDE5MjAsIDEwODApCg==</text>
+      <register name="*" type="4">
+        <text>1200</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1200</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXB0dXJlX3NjcmVlbnNob3RcPg==</text>
