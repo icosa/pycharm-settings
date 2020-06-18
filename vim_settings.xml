@@ -116,11 +116,6 @@
       <file name="/Dummy.txt" timestamp="1592408907729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/requirements.txt" timestamp="1592408621747">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-      </file>
       <file name="/Python Console" timestamp="1592407103483">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,12 +132,10 @@
       <file name="/a.dummy" timestamp="1590572130290">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" timestamp="1592380475869" />
       <file name="/annotation_utils.py" timestamp="1590577513143">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="30" column="21" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/test-utils/portal_test_utils/page_objects/pages/image_viewer_page/image_viewer_page.py" timestamp="1592387117822" />
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/driver.py" timestamp="1592379571296">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="12" />
