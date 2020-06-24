@@ -113,8 +113,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592408907729">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593006553413">
+        <mark key="[" line="0" column="41" />
       </file>
       <file name="C:/dev/definiens/services_toolbox/import-script/importscript/__main__.py" timestamp="1592911913617">
         <mark key="'" line="129" column="8" />
