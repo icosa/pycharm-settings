@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>if</entry>
         <entry>hscore</entry>
         <entry encoding="base64">XDxzbGlkZV9uYW1lc190b19pZHNcPg==</entry>
         <entry encoding="base64">XDxjb21wdXRlX2hzY29yZV9mb3JfY2VsbHNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx4X2xvY1w+</entry>
         <entry encoding="base64">XDx4X2NlbnRlclw+</entry>
         <entry encoding="base64">XDxnZXRfYmFzZWxpbmVcPg==</entry>
+        <entry encoding="base64">XDxfbWFwX2RyY190b19zbGlkZWlkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/target/right/g</entry>
@@ -310,7 +310,7 @@
         <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYmFzZWxpbmVcPg==</text>
+        <text encoding="base64">XDxfbWFwX2RyY190b19zbGlkZWlkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgbG9jYXRpb24gaXMgaW4gbG9naWNhbCB1bml0cyBiaXQgdGFyZ2V0IGltYWdlIGlzIGluIGRldmljZSB1bml0cywgdGhpcyBuZWVkcyB0byBiZSB0YWtlbiBpbnRvIGFjY291bnQK</text>
@@ -349,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRfYmFzZWxpbmVcPg==</last-search>
+      <last-search encoding="base64">XDxfbWFwX2RyY190b19zbGlkZWlkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYmFzZWxpbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbWFwX2RyY190b19zbGlkZWlkXD4=</last-pattern>
       <last-replace>for</last-replace>
       <last-substitute>if</last-substitute>
       <last-dir>1</last-dir>
