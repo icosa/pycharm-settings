@@ -177,11 +177,11 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="88" column="64" />
       </file>
-      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1590568433033">
-        <mark key="[" line="6" column="114" />
-        <mark key="]" line="6" column="117" />
-        <mark key="." line="6" column="116" />
-        <mark key="^" line="6" column="117" />
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/mocks/gateway/data.py" timestamp="1593776627562">
+        <mark key="[" line="6" column="116" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/venv/Lib/site-packages/portal_test_utils/utils/annotation_utils.py" timestamp="1592408025523">
         <mark key="'" line="68" column="4" />
@@ -196,6 +196,7 @@
         <mark key="." line="46" column="36" />
         <mark key="^" line="46" column="37" />
       </file>
+      <file name="C:/dev/definiens/cp2/automated_tests/portal-ui-component-tests/portal_tests/tests/metadata_table/test_metadata_table.py" timestamp="1593776433807" />
       <file name="C:/dev/definiens/cp2/dss/src/definiens/image/tiles/slides/TiledImage.cpp" timestamp="1593011079801">
         <mark key="[" line="17" column="75" />
         <mark key="]" line="17" column="75" />
@@ -309,8 +310,8 @@
       <register name="&quot;" type="4">
         <text>func(3)</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">aW4g</text>
+      <register name="*" type="2">
+        <text encoding="base64">c2xpZGUxID0gewogICAgJ2lkJzogJ3NsaWRlMScsICdibG9ja0lkJzogJ2Jsb2NrIEEnLCAncHJvamVjdElkJzogJ3Byb2plY3QxJywgJ2ZpbGVOYW1lJzogJ2ZpbGUxJywgJ3VwZGF0ZWRBdCc6ICcwNS0wNS0yMDIwJywKICAgICdjcmVhdGVkQXQnOiAnMDEtMDUtMjAyMCcsICdjaGVja3N1bSc6IDEyMzQsICdhc3NheXMnOiBbXSwgJ29yaWdpbmFsRmlsZU5hbWUnOiAnZmlsZTEnLCAnb3JpZ2luYWxFeHRlbnNpb24nOiAnc3ZzJwp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW4g</text>
@@ -319,7 +320,7 @@
         <text encoding="base64">XDxfbWFwX2RyY190b19zbGlkZWlkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgbG9jYXRpb24gaXMgaW4gbG9naWNhbCB1bml0cyBiaXQgdGFyZ2V0IGltYWdlIGlzIGluIGRldmljZSB1bml0cywgdGhpcyBuZWVkcyB0byBiZSB0YWtlbiBpbnRvIGFjY291bnQK</text>
+        <text encoding="base64">c2xpZGUxID0gewogICAgJ2lkJzogJ3NsaWRlMScsICdibG9ja0lkJzogJ2Jsb2NrIEEnLCAncHJvamVjdElkJzogJ3Byb2plY3QxJywgJ2ZpbGVOYW1lJzogJ2ZpbGUxJywgJ3VwZGF0ZWRBdCc6ICcwNS0wNS0yMDIwJywKICAgICdjcmVhdGVkQXQnOiAnMDEtMDUtMjAyMCcsICdjaGVja3N1bSc6IDEyMzQsICdhc3NheXMnOiBbXSwgJ29yaWdpbmFsRmlsZU5hbWUnOiAnZmlsZTEnLCAnb3JpZ2luYWxFeHRlbnNpb24nOiAnc3ZzJwp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgCg==</text>
