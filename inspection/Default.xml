@@ -3,8 +3,9 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="2">
           <item index="0" class="java.lang.String" itemvalue="portal_test_utils" />
+          <item index="1" class="java.lang.String" itemvalue="automation_api_gateway_client" />
         </list>
       </value>
     </option>
